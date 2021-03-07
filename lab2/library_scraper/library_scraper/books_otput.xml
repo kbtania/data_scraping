@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><name>Annals of Mechnikov institute</name><city><value>Kharkov</value></city><link><value>http://nbuv.gov.ua/j-tit/ami</value></link></item>
+<item><name>Artificial intelligence</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/II</value></link></item>
+<item><name>Acta medica Leopoliensia</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/Lmch</value></link></item>
+<item><name>Advances in Astronomy and Space Physics</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/aiaasp</value></link></item>
+<item><name>Algebra and discrete mathematics</name><city><value>Starobilsk</value></city><link><value>http://nbuv.gov.ua/j-tit/Adm</value></link></item>
+<item><name>Agricultural science and practice</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/asp</value></link></item>
+<item><name>Advanced education</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/novocv</value></link></item>
+<item><name>Agricultural and resource economics: international scientific e-journal</name><city><value>Харків, Вроцлав</value></city><link><value>http://nbuv.gov.ua/j-tit/areis</value></link></item>
+<item><name>Architectural studies</name><city><value>Lviv</value></city><link><value>http://nbuv.gov.ua/j-tit/arcs</value></link></item>
+<item><name>Acta Hungarica</name><city><value>Ungvar</value></city><link><value>http://nbuv.gov.ua/j-tit/achun</value></link></item>
+<item><name>Advances in cyber-physical systems</name><city><value>Lviv</value></city><link><value>http://nbuv.gov.ua/j-tit/advcyphsys</value></link></item>
+<item><name>Art of medicine</name><city><value>Івано-Франківськ</value></city><link><value>http://nbuv.gov.ua/j-tit/artmed</value></link></item>
+<item><name>Ars Linguodidacticae</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/artlin</value></link></item>
+<item><name>Art and Design</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/artges</value></link></item>
+<item><name>Applied aspects of information technology</name><city><value>Odessa</value></city><link><value>http://nbuv.gov.ua/j-tit/aait</value></link></item>
+<item><name>Agrology</name><city><value>Dnipro</value></city><link><value>http://nbuv.gov.ua/j-tit/algolog</value></link></item>
+<item><name>Advanced space law</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/adspl</value></link></item>
+<item><name>Access to Justice in Eastern Europe</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/accjee</value></link></item>
+<item><name>Agrarian bulletin of the Black sea littoral</name><city><value>Odessa</value></city><link><value>http://nbuv.gov.ua/j-tit/agbubls</value></link></item>
+<item><name>Accents and paradoxes of modern philology</name><city><value>Kharkiv</value></city><link><value>http://nbuv.gov.ua/j-tit/asspmp</value></link></item>
+<item><name>Animal science and food technology</name><city><value>Київ
+</value></city><link><value>http://nbuv.gov.ua/j-tit/anscft</value></link></item>
+<item><name>Radiation diagnostics, radiation therapy</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/ldlt</value></link></item>
+<item><name>Researches in mathematics</name><city><value>Dnipro</value></city><link><value>http://nbuv.gov.ua/j-tit/resm</value></link></item>
+<item><name>Review of transport economics and managment</name><city><value>Дніпро</value></city><link><value>http://nbuv.gov.ua/j-tit/znpdnuzt_pet</value></link></item>
+<item><name>Regulatory Mechanisms in Biosystems</name><city><value>Dnipro</value></city><link><value>http://nbuv.gov.ua/j-tit/vdubm</value></link></item>
+<item><name>Journal for veterinary medicine, biotechnology and biosafety</name><city><value>Kharkiv</value></city><link><value>http://nbuv.gov.ua/j-tit/jvmbb</value></link></item>
+<item><name>One health and nutritions problems of Ukraine</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/Pkh</value></link></item>
+<item><name>Odessa astronomical publications</name><city><value>Odessa</value></city><link><value>http://nbuv.gov.ua/j-tit/oap</value></link></item>
+<item><name>Journal of Chemistry and Technologies</name><city><value>Dnipro</value></city><link><value>http://nbuv.gov.ua/j-tit/vduch</value></link></item>
+<item><name>Journal of engineering sciences</name><city><value>Sumy</value></city><link><value>http://nbuv.gov.ua/j-tit/jes</value></link></item>
+<item><name>Lex Portus</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/LP</value></link></item>
+<item><name>Machiner &amp; Energetics</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/machener</value></link></item>
+<item><name>Journal of mechanical engineering</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/PMash</value></link></item>
+<item><name>Law of Ukraine</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/luk</value></link></item>
+<item><name>Management and entrepreneurship in Ukraine: the stages of formation and problems of development</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/meu</value></link></item>
+<item><name>Information Technology and Security</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/inftech</value></link></item>
+<item><name>Journal of nano- and electronic physics</name><city><value>Sumy</value></city><link><value>http://nbuv.gov.ua/j-tit/jnef</value></link></item>
+<item><name>Health, sport, rehabilitation</name><city><value>Kharkiv</value></city><link><value>http://nbuv.gov.ua/j-tit/hsr</value></link></item>
+<item><name>Pain, anaesthesia &amp; intensive care</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/bzit</value></link></item>
+<item><name>Geo &amp; Bio</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Vnnpm</value></link></item>
+<item><name>Mechanism of Economic Regulation</name><city><value>Суми</value></city><link><value>http://nbuv.gov.ua/j-tit/Mre</value></link></item>
+<item><name>Infusion &amp; chemotherapy</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/infch</value></link></item>
+<item><name>Journal of physics and electronics</name><city><value>Dnipro</value></city><link><value>http://nbuv.gov.ua/j-tit/jphel</value></link></item>
+<item><name>Herald of advanced information technology</name><city><value>Odessa</value></city><link><value>http://nbuv.gov.ua/j-tit/hait</value></link></item>
+<item><name>Historical and cultural studies</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/hcs</value></link></item>
+<item><name>Philosophy &amp; cosmology</name><city><value>Кyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/philcos</value></link></item>
+<item><name>Geodesy, cartography and aerial photography</name><city><value>Lviv</value></city><link><value>http://nbuv.gov.ua/j-tit/Geodez</value></link></item>
+<item><name>Finane, accounting, banks</name><city><value>Вінниця</value></city><link><value>http://nbuv.gov.ua/j-tit/Fub</value></link></item>
+<item><name>East european journal of psycholinguistics</name><city><value>Lutsk</value></city><link><value>http://nbuv.gov.ua/j-tit/eejps</value></link></item>
+<item><name>Известия высших учебных заведений</name><city><value> Радиоэлектроника, Киев</value></city><link><value>http://nbuv.gov.ua/j-tit/RaEl</value></link></item>
+<item><name>Chemistry, technology and application of substances</name><city><value>Lviv</value></city><link><value>http://nbuv.gov.ua/j-tit/chtaps</value></link></item>
+<item><name>Medical science of Ukraine</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/nvnmu</value></link></item>
+<item><name>Dental science and practice</name><city><value>Полтава</value></city><link><value>http://nbuv.gov.ua/j-tit/dscpr</value></link></item>
+<item><name>Innovative Marketing</name><city><value>Sumy</value></city><link><value>http://nbuv.gov.ua/j-tit/innmar</value></link></item>
+<item><name>Journal of thermoelectricity</name><city><value>Chernivtsi</value></city><link><value>http://nbuv.gov.ua/j-tit/jtherel</value></link></item>
+<item><name>Humanitarian studios: pedagogics, psychology, philosophy </name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/hst</value></link></item>
+<item><name>Photobiology and photomedicine</name><city><value>Kharkiv</value></city><link><value>http://nbuv.gov.ua/j-tit/Ftf</value></link></item>
+<item><name>Geodynamics</name><city><value>Lviv</value></city><link><value>http://nbuv.gov.ua/j-tit/geod</value></link></item>
+<item><name>Fundamental and applied soil science</name><city><value>Dnipro</value></city><link><value>http://nbuv.gov.ua/j-tit/grunt</value></link></item>
+<item><name>Future human image</name><city><value>Kiev</value></city><link><value>http://nbuv.gov.ua/j-tit/fuhuim</value></link></item>
+<item><name>Eastern Ukrainian Medical Journal</name><city><value>Суми</value></city><link><value>http://nbuv.gov.ua/j-tit/eumj</value></link></item>
+<item><name>Известия Крымской астрофизической обсерватории</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/ikao</value></link></item>
+<item><name>Cognition, communication, discourse</name><city><value>eries : "Philology", Харьков</value></city><link><value>http://nbuv.gov.ua/j-tit/kkd</value></link></item>
+<item><name>Medix. Anti-aging</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Maa</value></link></item>
+<item><name>Diagnostics and treatment of oral and maxillofacial pathology</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/dtrormp</value></link></item>
+<item><name>Insurance markets and companies</name><city><value>Sumy</value></city><link><value>http://nbuv.gov.ua/j-tit/insmarcom</value></link></item>
+<item><name>Biological systems: theory and innovation</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/bsti</value></link></item>
+<item><name>Ядерна енергетика та довкілля</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/jaed</value></link></item>
+<item><name>З архівів ВУЧК, ГПУ, НКВД, КГБ</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/za</value></link></item>
+<item><name>Journal of european economy</name><city><value>Ternopil</value></city><link><value>http://nbuv.gov.ua/j-tit/jeea</value></link></item>
+<item><name>Journal of geology, geography and geoecology</name><city><value>Dnipro</value></city><link><value>http://nbuv.gov.ua/j-tit/jggg</value></link></item>
+<item><name>Humanitarian vision</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/hv</value></link></item>
+<item><name>Humanitarium</name><city><value>Переяслав-Хмельницький</value></city><link><value>http://nbuv.gov.ua/j-tit/gvpdpu</value></link></item>
+<item><name>Humanities studies</name><city><value>Запоріжжя</value></city><link><value>http://nbuv.gov.ua/j-tit/humst</value></link></item>
+<item><name>Plant introduction</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/IR</value></link></item>
+<item><name>Germanistik in der Ukraine</name><city><value>Kyjiw</value></city><link><value>http://nbuv.gov.ua/j-tit/germvu</value></link></item>
+<item><name>Financial markets, institutions and risks</name><city><value>Sumy</value></city><link><value>http://nbuv.gov.ua/j-tit/finmarinsr</value></link></item>
+<item><name>Functional materials</name><city><value>Kharkov</value></city><link><value>http://nbuv.gov.ua/j-tit/FM</value></link></item>
+<item><name>Ecology and noospherology</name><city><value>Kyiv, Dnipro</value></city><link><value>http://nbuv.gov.ua/j-tit/etn</value></link></item>
+<item><name>Экология и промышленность</name><city><value>Харьков</value></city><link><value>http://nbuv.gov.ua/j-tit/ekolprom</value></link></item>
+<item><name>Шевченків світ</name><city><value>Черкаси</value></city><link><value>http://nbuv.gov.ua/j-tit/Shesv</value></link></item>
+<item><name>Communications and communicative technologies</name><city><value>Дніпро</value></city><link><value>http://nbuv.gov.ua/j-tit/cctech</value></link></item>
+<item><name>Computing</name><city><value>Ternopil</value></city><link><value>http://nbuv.gov.ua/j-tit/Computing</value></link></item>
+<item><name>MHGC Proceedings</name><city><value>Рим</value></city><link><value>http://nbuv.gov.ua/j-tit/MHGC</value></link></item>
+<item><name>Mining of mineral deposits</name><city><value>Дніпро</value></city><link><value>http://nbuv.gov.ua/j-tit/rr</value></link></item>
+<item><name>Dictum factum</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/dicf</value></link></item>
+<item><name>International journal of antiibiotics and probiotics</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/intjourantibpr</value></link></item>
+<item><name>Biosystems diversity</name><city><value>Dnipro</value></city><link><value>http://nbuv.gov.ua/j-tit/vdube</value></link></item>
+<item><name>Business, economics, sustainability, leadership and innovations</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/besli</value></link></item>
+<item><name>Ядерна та радіаційна безпека</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ydpb</value></link></item>
+<item><name>З історії західноукраїнських земель</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/zictzahzem</value></link></item>
+<item><name>Journal of governance &amp; regulation</name><city><value>Sumy</value></city><link><value>http://nbuv.gov.ua/j-tit/jgr</value></link></item>
+<item><name>Journal of hydrocarbon power engineering</name><city><value>Ivano-Frankivsk</value></city><link><value>http://nbuv.gov.ua/j-tit/jhpe</value></link></item>
+<item><name>Plant Varieties Studying and Protection</name><city><value>Вінниця</value></city><link><value>http://nbuv.gov.ua/j-tit/stopnsr</value></link></item>
+<item><name>GISAP</name><city><value> Physics, mathematics and chemistry, London</value></city><link><value>http://nbuv.gov.ua/j-tit/phmch</value></link></item>
+<item><name>Юридична наука</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/jnn</value></link></item>
+<item><name>Харківська хірургічна школа</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/Khkhsh</value></link></item>
+<item><name>Фактори експериментальної еволюції організмів</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/feeo</value></link></item>
+<item><name>Economic annals-XXI</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ecchado</value></link></item>
+<item><name>Экология моря</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/EkMo</value></link></item>
+<item><name>Экономика и управление</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/ekiyp</value></link></item>
+<item><name>Центральноукраїнський науковий вісник </name><city><value> Економічні науки, Кропивницький</value></city><link><value>http://nbuv.gov.ua/j-tit/Npkntu_e</value></link></item>
+<item><name>Уголь Украины</name><city><value>Киев</value></city><link><value>http://nbuv.gov.ua/j-tit/ugukr</value></link></item>
+<item><name>Шевченкознавчі студії</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Shs</value></link></item>
+<item><name>Школа першого ступеня: теорія і практика</name><city><value>Тернопіль</value></city><link><value>http://nbuv.gov.ua/j-tit/Shps</value></link></item>
+<item><name>Шляхи підвищення ефективності будівництва в умовах формування ринкових відносин</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/shpebfrv</value></link></item>
+<item><name>Control systems &amp; computers</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/USM</value></link></item>
+<item><name>Modern economics</name><city><value>Миколаїв</value></city><link><value>http://nbuv.gov.ua/j-tit/modecon</value></link></item>
+<item><name>Morphologia</name><city><value>Дніпро</value></city><link><value>http://nbuv.gov.ua/j-tit/Morphology</value></link></item>
+<item><name>International journal of education and science</name><city><value>Kharkiv</value></city><link><value>http://nbuv.gov.ua/j-tit/intjeds</value></link></item>
+<item><name>Banks &amp; bank systems</name><city><value>Sumy</value></city><link><value>http://nbuv.gov.ua/j-tit/banks</value></link></item>
+<item><name>Biomedical and biosocial anthropology</name><city><value>Vinnytsia</value></city><link><value>http://nbuv.gov.ua/j-tit/bba</value></link></item>
+<item><name>Ядерна фізика та енергетика</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/yadf</value></link></item>
+<item><name>Ядерні та радіаційні технології</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/yadt</value></link></item>
+<item><name>Якість технологій та освіти</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/yakict</value></link></item>
+<item><name>Загальна патологія та патологічна фізіологія</name><city><value>Луганськ</value></city><link><value>http://nbuv.gov.ua/j-tit/Zppf</value></link></item>
+<item><name>Journal of Nano- and Electronic Physics</name><city><value>Sumy</value></city><link><value>http://nbuv.gov.ua/j-tit/jnep</value></link></item>
+<item><name>Politology bulletin</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Pv</value></link></item>
+<item><name>GISAP</name><city><value> Biology, veterinary medicine and agricultural sciences, London</value></city><link><value>http://nbuv.gov.ua/j-tit/gbvmas</value></link></item>
+<item><name>Юридична наука і практика</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/njj</value></link></item>
+<item><name>Юридична наука, практика і освіта</name><city><value>Луганськ</value></city><link><value>http://nbuv.gov.ua/j-tit/Yurnpo</value></link></item>
+<item><name>Харківський історіографічний збірник</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/khiz</value></link></item>
+<item><name>Фармакологія та лікарська токсикологія</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/flt</value></link></item>
+<item><name>Education and pedagogical sciences</name><city><value>Старобільськ</value></city><link><value>http://nbuv.gov.ua/j-tit/OsDon</value></link></item>
+<item><name>Таврический вестник информатики и математики</name><city><value>Симф.</value></city><link><value>http://nbuv.gov.ua/j-tit/Tvim</value></link></item>
+<item><name>Экономика Крыма</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/econkr</value></link></item>
+<item><name>Экономика Украины</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/ekukrr</value></link></item>
+<item><name>Центральноукраїнський науковий вісник</name><city><value> Технічні науки, Кропивницький</value></city><link><value>http://nbuv.gov.ua/j-tit/znpkntu</value></link></item>
+<item><name>Цивілістична процесуальна думка</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/tsprv</value></link></item>
+<item><name>Україна XX століття: культура, ідеологія, політика</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Uxxs</value></link></item>
+<item><name>Шпитальна хірургія. Журнал імені Л. Я. Ковальчука </name><city><value>Тернопіль</value></city><link><value>http://nbuv.gov.ua/j-tit/shpkhir</value></link></item>
+<item><name>Current issues of mass communication</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/apmk</value></link></item>
+<item><name>Cybernetics and computer engineering</name><city><value>Киев</value></city><link><value>http://nbuv.gov.ua/j-tit/Kivt</value></link></item>
+<item><name>Mathematical modeling and computing</name><city><value>Lviv</value></city><link><value>http://nbuv.gov.ua/j-tit/mmc</value></link></item>
+<item><name>Mechanics and Advanced Technologies</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/madt</value></link></item>
+<item><name>International journal of medicine and medical research</name><city><value>Ternopil</value></city><link><value>http://nbuv.gov.ua/j-tit/ijmmr</value></link></item>
+<item><name>Biopolymers and cell</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/BPK</value></link></item>
+<item><name>Залізничний транспорт України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ZTU</value></link></item>
+<item><name>Journal of optimizaton, differential equations and their applications</name><city><value>Dnipro</value></city><link><value>http://nbuv.gov.ua/j-tit/jodeta</value></link></item>
+<item><name>Journal of Vasyl Stefanyk Precarpathian National University</name><city><value>Ivano-Frankivsk</value></city><link><value>http://nbuv.gov.ua/j-tit/jovspnu</value></link></item>
+<item><name>Problems of modern psychology</name><city><value>Kamianets-Podilskyi</value></city><link><value>http://nbuv.gov.ua/j-tit/Pspl</value></link></item>
+<item><name>GISAP</name><city><value> Culturology, sports and art history, London</value></city><link><value>http://nbuv.gov.ua/j-tit/gcsah</value></link></item>
+<item><name>GISAP</name><city><value> Earth and space sciences, London</value></city><link><value>http://nbuv.gov.ua/j-tit/gess</value></link></item>
+<item><name>Юридична психологія</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/urpp</value></link></item>
+<item><name>Юридична Україна</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/urykr</value></link></item>
+<item><name>Харківський медичний журнал</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/Khmj</value></link></item>
+<item><name>Харчова наука і технологія</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/Khnit</value></link></item>
+<item><name>Радиоэлектроника и информатика</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/reii</value></link></item>
+<item><name>Обладнання та технології харчових виробництв</name><city><value>Кривий Ріг</value></city><link><value>http://nbuv.gov.ua/j-tit/Otkhv</value></link></item>
+<item><name>Садівництво</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/sadiv</value></link></item>
+<item><name>"Магарач". Виноградарство и виноделие</name><city><value>Ялта</value></city><link><value>http://nbuv.gov.ua/j-tit/Magarach</value></link></item>
+<item><name>Лабораторна діагностика</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/labdiag</value></link></item>
+<item><name>Фармаком</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/pharmakom</value></link></item>
+<item><name>Electrical power and electromechanical systems</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/elpoels</value></link></item>
+<item><name>Electronics and control systems</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/etsu</value></link></item>
+<item><name>Таврический журнал психиатрии</name><city><value>Симф.</value></city><link><value>http://nbuv.gov.ua/j-tit/Tzhp</value></link></item>
+<item><name>Экономикс</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/ekon</value></link></item>
+<item><name>Экосистемы, их оптимизация и охрана</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/ecooo</value></link></item>
+<item><name>Электрические контакты и электроды</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/Teke</value></link></item>
+<item><name>Цитологія і генетика</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/CLG</value></link></item>
+<item><name>Цифрова платформа: інформаційні технології в соціокультурній сфері</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/dpitsca</value></link></item>
+<item><name>Цифрові технології</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/ct</value></link></item>
+<item><name>Україна в Центрально-Східній Європі</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Ucse</value></link></item>
+<item><name>Chemistry &amp; Chemical Technology</name><city><value>Lviv</value></city><link><value>http://nbuv.gov.ua/j-tit/Chemistry</value></link></item>
+<item><name>Chemistry of metals and alloys</name><city><value>Lviv</value></city><link><value>http://nbuv.gov.ua/j-tit/Khms</value></link></item>
+<item><name>Computational problems of electrical engineering</name><city><value>Lviv</value></city><link><value>http://nbuv.gov.ua/j-tit/CPoee</value></link></item>
+<item><name>Metallurgical and mining industry</name><city><value>Dnipropetrovsk</value></city><link><value>http://nbuv.gov.ua/j-tit/metmi</value></link></item>
+<item><name>Methods of functional analysis and topology</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/MFAT</value></link></item>
+<item><name>International journal of philology</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/intjouph</value></link></item>
+<item><name>International journal of science annals</name><city><value>Kharkiv</value></city><link><value>http://nbuv.gov.ua/j-tit/intjscann</value></link></item>
+<item><name>Biotechnologia Acta</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/biot</value></link></item>
+<item><name>BITP</name><city><value>Józefów (powiat otwocki)</value></city><link><value>http://nbuv.gov.ua/j-tit/bitp</value></link></item>
+<item><name>Business ethics and leadership</name><city><value>Sumy</value></city><link><value>http://nbuv.gov.ua/j-tit/busetlen</value></link></item>
+<item><name>Записки з ономастики</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/zzo</value></link></item>
+<item><name>Problems of tribology</name><city><value>Хмельницький</value></city><link><value>http://nbuv.gov.ua/j-tit/Ptl</value></link></item>
+<item><name>GISAP</name><city><value> Economics, jurisprudence and management, London</value></city><link><value>http://nbuv.gov.ua/j-tit/gejm</value></link></item>
+<item><name>GISAP</name><city><value> Educational sciences, London</value></city><link><value>http://nbuv.gov.ua/j-tit/ges</value></link></item>
+<item><name>Юридичний бюлетень</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/ub</value></link></item>
+<item><name>Юридичний вісник</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/urid</value></link></item>
+<item><name>Харчова промисловість</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Khp</value></link></item>
+<item><name>Химия и технология воды</name><city><value>Киев</value></city><link><value>http://nbuv.gov.ua/j-tit/KhTV</value></link></item>
+<item><name>Радіоелектроніка, інформатика, управління</name><city><value>Запоріжжя</value></city><link><value>http://nbuv.gov.ua/j-tit/riu</value></link></item>
+<item><name>Облік і фінанси</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Oif_apk</value></link></item>
+<item><name>Свинарство</name><city><value>Полтава</value></city><link><value>http://nbuv.gov.ua/j-tit/svun</value></link></item>
+<item><name>Магістеріум</name><city><value> Археологічні студії, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Magisterium</value></link></item>
+<item><name>Лаврський альманах</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/lavral</value></link></item>
+<item><name>Палеонтологічний збірник</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/paleozb</value></link></item>
+<item><name>Кадровий вісник</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/kavis</value></link></item>
+<item><name>Фармацевт Практик</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/farmpr</value></link></item>
+<item><name>Energy engineering and control systems</name><city><value>Lviv</value></city><link><value>http://nbuv.gov.ua/j-tit/eecs</value></link></item>
+<item><name>Environment &amp; health</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/dtz</value></link></item>
+<item><name>Таврический медико-биологический вестник</name><city><value>Симф.</value></city><link><value>http://nbuv.gov.ua/j-tit/Tmbv</value></link></item>
+<item><name>Электронная микроскопия и прочность материалов</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/empm</value></link></item>
+<item><name>Энергосбережение. Энергетика. Энергоаудит</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/ecee</value></link></item>
+<item><name>Цукор України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Cu</value></link></item>
+<item><name>Цукрові буряки</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Cb</value></link></item>
+<item><name>Україна дипломатична</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ukrdip</value></link></item>
+<item><name>Condensed matter physics</name><city><value>Lviv</value></city><link><value>http://nbuv.gov.ua/j-tit/CMPh</value></link></item>
+<item><name>Modern higher education review</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/mhedr</value></link></item>
+<item><name>Information and telecommunication sciences</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/Telnau</value></link></item>
+<item><name>Записки з романо-германської філології</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/zrgf</value></link></item>
+<item><name>Proceedings of the International Geometry Center</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/pmgc</value></link></item>
+<item><name>GISAP</name><city><value> History and philosophy, London</value></city><link><value>http://nbuv.gov.ua/j-tit/Hp</value></link></item>
+<item><name>GISAP</name><city><value> Medical science, pharmacology, London</value></city><link><value>http://nbuv.gov.ua/j-tit/msph</value></link></item>
+<item><name>Юридичний вісник Причорномор'я</name><city><value>Херсон</value></city><link><value>http://nbuv.gov.ua/j-tit/urvp</value></link></item>
+<item><name>Юридичний вісник. Повітряне і космічне право</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Npnau</value></link></item>
+<item><name>Химия и технология производств основной химической промышлености</name><city><value>Харьков</value></city><link><value>http://nbuv.gov.ua/j-tit/Khtexp</value></link></item>
+<item><name>Іван Огієнко і сучасна наука та освіта</name><city><value>ерія : Історична, Кам'янець-Подільський</value></city><link><value>http://nbuv.gov.ua/j-tit/IvanOgienkoi</value></link></item>
+<item><name>Жестова мова й сучасність</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/jmis</value></link></item>
+<item><name>Європейське право</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/evrpr</value></link></item>
+<item><name>Європейський вектор економічного розвитку</name><city><value>Дніпро</value></city><link><value>http://nbuv.gov.ua/j-tit/ever</value></link></item>
+<item><name>Навчання і виховання обдарованої дитини: теорія та практика</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Nivoo</value></link></item>
+<item><name>Ейдос</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/eidos</value></link></item>
+<item><name>Двигуни внутрішнього згоряння</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/dvs</value></link></item>
+<item><name>Радіоелектронні і комп’ютерні системи</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/recs</value></link></item>
+<item><name>Обработка материалов давлением</name><city><value>Краматорск</value></city><link><value>http://nbuv.gov.ua/j-tit/omd</value></link></item>
+<item><name>Світ геотехніки</name><city><value>Запоріжжя</value></city><link><value>http://nbuv.gov.ua/j-tit/svitgeoteh</value></link></item>
+<item><name>Магістеріум</name><city><value> Економічні студії, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Magisterium_ek</value></link></item>
+<item><name>Лексикографічний бюлетень</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/lecbu</value></link></item>
+<item><name>Пам’ятки</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Pam</value></link></item>
+<item><name>Кам’яна доба України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/kdu</value></link></item>
+<item><name>Фармацевтичний журнал</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/pharmazh</value></link></item>
+<item><name>Environmental economics</name><city><value>Sumy</value></city><link><value>http://nbuv.gov.ua/j-tit/envirecon</value></link></item>
+<item><name>Таврійський вісник освіти</name><city><value>Херсон</value></city><link><value>http://nbuv.gov.ua/j-tit/Tvo</value></link></item>
+<item><name>Україна модерна</name><city><value>Харків, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ukrmmoder</value></link></item>
+<item><name>Innovative biosystems &amp; bioengineering</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/ibb</value></link></item>
+<item><name>Intellectualization of logistics and supply chain management</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/ilschm</value></link></item>
+<item><name>Записки з українського мовознавства</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/zukm</value></link></item>
+<item><name>Proceedings of the National aviation university</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/Vnau</value></link></item>
+<item><name>GISAP</name><city><value> Philological sciences, London</value></city><link><value>http://nbuv.gov.ua/j-tit/phs</value></link></item>
+<item><name>GISAP</name><city><value> Psychological sciences, London</value></city><link><value>http://nbuv.gov.ua/j-tit/psych</value></link></item>
+<item><name>Юридичний часопис Національної академії внутрішніх справ </name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/aymvs</value></link></item>
+<item><name>Юридичні записки</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/urdz</value></link></item>
+<item><name>Хімічна промисловість України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Khpu</value></link></item>
+<item><name>Хімія, фізика та технологія поверхні</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/khphtp</value></link></item>
+<item><name>Іван Огієнко і сучасна наука та освіта</name><city><value>ерія : Історична та філологічна, Кам'янець-Подільський</value></city><link><value>http://nbuv.gov.ua/j-tit/Ioisn</value></link></item>
+<item><name>Житомирські літературознавчі студії</name><city><value>Житомир</value></city><link><value>http://nbuv.gov.ua/j-tit/gls</value></link></item>
+<item><name>Європейські історичні студії</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/eis</value></link></item>
+<item><name>Європейські педагогічні студії</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/epc</value></link></item>
+<item><name>Європейські перспективи</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/evpe</value></link></item>
+<item><name>Наддніпрянська Україна: історичні процеси, події, постаті</name><city><value>Дніпропетровськ</value></city><link><value>http://nbuv.gov.ua/j-tit/Nuippp</value></link></item>
+<item><name>Екологічна безпека</name><city><value>Кременчук</value></city><link><value>http://nbuv.gov.ua/j-tit/ekbez</value></link></item>
+<item><name>Деміург: ідеї, технології, перспективи дизайну</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ditpd</value></link></item>
+<item><name>Габітус</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/habit</value></link></item>
+<item><name>Радіологічний вісник</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/radvis</value></link></item>
+<item><name>Образ</name><city><value>Суми</value></city><link><value>http://nbuv.gov.ua/j-tit/obraz</value></link></item>
+<item><name>Світ Кліо</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/clw</value></link></item>
+<item><name>Магістеріум</name><city><value> Журналістика, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Magisterium_j</value></link></item>
+<item><name>Леся Українка і сучасність</name><city><value>Луцьк</value></city><link><value>http://nbuv.gov.ua/j-tit/lesukrsu</value></link></item>
+<item><name>Пам’ять століть. Україна</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Psukr</value></link></item>
+<item><name>Карантин і захист рослин</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Kizr</value></link></item>
+<item><name>Фармацевтичний часопис</name><city><value>Тернопіль</value></city><link><value>http://nbuv.gov.ua/j-tit/Phch</value></link></item>
+<item><name>Environmental problems</name><city><value>Lviv</value></city><link><value>http://nbuv.gov.ua/j-tit/envpr</value></link></item>
+<item><name>Таврійський науковий вісник</name><city><value>Херсон</value></city><link><value>http://nbuv.gov.ua/j-tit/Tavnv</value></link></item>
+<item><name>Україна та Польща: минуле, сьогодення, перспективи</name><city><value>Луцьк</value></city><link><value>http://nbuv.gov.ua/j-tit/UPmcp</value></link></item>
+<item><name>Inter collegas</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/ic</value></link></item>
+<item><name>Записки історичного факультету</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/zif</value></link></item>
+<item><name>Professional education: methodology, theory and technologies</name><city><value>Pereiaslav-Khmelnytskyi</value></city><link><value>http://nbuv.gov.ua/j-tit/profe</value></link></item>
+<item><name>GISAP</name><city><value> Sociological, political and military sciences, London</value></city><link><value>http://nbuv.gov.ua/j-tit/spms</value></link></item>
+<item><name>Юриспруденція: теорія і практика</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/utp</value></link></item>
+<item><name>Хірургія дитячого віку</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Khdv</value></link></item>
+<item><name>Бахмутський шлях</name><city><value>Луганськ</value></city><link><value>http://nbuv.gov.ua/j-tit/bsh</value></link></item>
+<item><name>Авіаційно-космічна техніка і технологія</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/aktit</value></link></item>
+<item><name>Versus</name><city><value>Мелітополь</value></city><link><value>http://nbuv.gov.ua/j-tit/vers</value></link></item>
+<item><name>Vita antiqua</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/va</value></link></item>
+<item><name>Ukrainian Biochemical Journal</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/BioChem</value></link></item>
+<item><name>Terminolohichnyi visnyk</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/termv</value></link></item>
+<item><name>Іван Огієнко і сучасна наука та освіта</name><city><value>ерія : Філологічна, Кам'янець-Подільський</value></city><link><value>http://nbuv.gov.ua/j-tit/IvanOgienko</value></link></item>
+<item><name>Журнал вушних, носових і горлових хвороб</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Jvngkh</value></link></item>
+<item><name>Європейські студії і право</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/esp</value></link></item>
+<item><name>Єдиноборства</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/edinob</value></link></item>
+<item><name>Надзвічайні ситуації: попередження та ліквідація</name><city><value>Черкаси</value></city><link><value>http://nbuv.gov.ua/j-tit/espl</value></link></item>
+<item><name>Екологічна безпека прибережної та шельфової зон та комплексне використання ресурсів шельфу</name><city><value>Севастополь</value></city><link><value>http://nbuv.gov.ua/j-tit/ebpsz</value></link></item>
+<item><name>Демографія та соціальна економіка</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/dse</value></link></item>
+<item><name>Галицький економічний вісник</name><city><value>Тернопіль</value></city><link><value>http://nbuv.gov.ua/j-tit/gev</value></link></item>
+<item><name>Радіотехніка</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/rvmnts</value></link></item>
+<item><name>Обрії</name><city><value>Івано-Франківськ</value></city><link><value>http://nbuv.gov.ua/j-tit/obrii</value></link></item>
+<item><name>Світ медицини та біології</name><city><value>Полтава</value></city><link><value>http://nbuv.gov.ua/j-tit/S_med</value></link></item>
+<item><name>Магістеріум</name><city><value> Історико-філософські студії, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Magisterium_ist</value></link></item>
+<item><name>Литературоведческий сборник</name><city><value>Донецк</value></city><link><value>http://nbuv.gov.ua/j-tit/Lzb</value></link></item>
+<item><name>Панорама політологічних студій</name><city><value>Рівне</value></city><link><value>http://nbuv.gov.ua/j-tit/Pps</value></link></item>
+<item><name>Кардиология: от науки к практике</name><city><value>Киев</value></city><link><value>http://nbuv.gov.ua/j-tit/Konkp</value></link></item>
+<item><name>Физика и техника высоких давлений</name><city><value>Киев</value></city><link><value>http://nbuv.gov.ua/j-tit/PhTVD</value></link></item>
+<item><name>European scientific journal of economic and financial innovation</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/esjefi</value></link></item>
+<item><name>Таврійський науковий вісник</name><city><value>ерія : Економіка, Херсон</value></city><link><value>http://nbuv.gov.ua/j-tit/tavnve</value></link></item>
+<item><name>Україна-Європа-Світ. Міжнародний збірник наукових праць.</name><city><value>ерія:  : Історія, міжнародні відносини, Тернопіль</value></city><link><value>http://nbuv.gov.ua/j-tit/Ues</value></link></item>
+<item><name>International Economic Policy</name><city><value>Kiev</value></city><link><value>http://nbuv.gov.ua/j-tit/itrep</value></link></item>
+<item><name>Investment management and financial innovations</name><city><value>Sumy</value></city><link><value>http://nbuv.gov.ua/j-tit/imfi</value></link></item>
+<item><name>Записки Львівської національної наукової бібліотеки України імені В. Стефаника </name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/lnnbyivs</value></link></item>
+<item><name>Progress in physics of metals</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/UPhM</value></link></item>
+<item><name>GISAP</name><city><value> Technical sciences, construction and architecture, London</value></city><link><value>http://nbuv.gov.ua/j-tit/tsca</value></link></item>
+<item><name>Юрист України</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/uy</value></link></item>
+<item><name>Хірургія Донбасу</name><city><value>Луганськ</value></city><link><value>http://nbuv.gov.ua/j-tit/xdt</value></link></item>
+<item><name>Хірургія України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/KhU</value></link></item>
+<item><name>Бджільництво України</name><city><value>Житомир</value></city><link><value>http://nbuv.gov.ua/j-tit/bdjukr</value></link></item>
+<item><name>Автоматизация судовых технических средств</name><city><value>Одесса</value></city><link><value>http://nbuv.gov.ua/j-tit/asts</value></link></item>
+<item><name>Visnyk of the National Bank of Ukraine</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/vnbuej</value></link></item>
+<item><name>Ukrainian entomological journal</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Uej</value></link></item>
+<item><name>Ukrainian Journal of Educational Research</name><city><value>Lviv</value></city><link><value>http://nbuv.gov.ua/j-tit/ukrjouredres</value></link></item>
+<item><name>Вагонний парк</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/vagpark</value></link></item>
+<item><name>The Journal of  V. N. Karazin Kharkiv National University</name><city><value>eries : Medicine, Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/VKhM</value></link></item>
+<item><name>Theoretical and applied veterinary medicine</name><city><value>Дніпро</value></city><link><value>http://nbuv.gov.ua/j-tit/teorapvm</value></link></item>
+<item><name>Імідж сучасного педагога</name><city><value>Полтава</value></city><link><value>http://nbuv.gov.ua/j-tit/isp</value></link></item>
+<item><name>Журнал дерматовенерології та косметології ім. М. О. Торсуєва</name><city><value>Слов'янськ</value></city><link><value>http://nbuv.gov.ua/j-tit/jdkit</value></link></item>
+<item><name>Єлисавет</name><city><value> Історичні науки, Кіровоград</value></city><link><value>http://nbuv.gov.ua/j-tit/Eznpk</value></link></item>
+<item><name>Надійність і довговічність машин і споруд</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Nidmis</value></link></item>
+<item><name>Екологічна безпека та збалансоване ресурсокористування</name><city><value>Івано-Франківськ</value></city><link><value>http://nbuv.gov.ua/j-tit/ebzp</value></link></item>
+<item><name>Демократичне врядування</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/DeVr</value></link></item>
+<item><name>Галицький лікарський вісник</name><city><value>Івано-Франківськ</value></city><link><value>http://nbuv.gov.ua/j-tit/glv</value></link></item>
+<item><name>Радіофізика і радіоастрономія</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/rphra</value></link></item>
+<item><name>Обрії друкарства</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/obdr</value></link></item>
+<item><name>Світ соціальних комунікацій</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Ssk</value></link></item>
+<item><name>Магістеріум</name><city><value> Історичні студії, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Magisterium_ict</value></link></item>
+<item><name>Лікарська справа</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/LiSp</value></link></item>
+<item><name>Парадигма</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/paradig</value></link></item>
+<item><name>Кардіологія та кардіохірургія: безперевний професійний розвиток</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/carcs</value></link></item>
+<item><name>Физико-технические проблемы горного производства</name><city><value>Донецк</value></city><link><value>http://nbuv.gov.ua/j-tit/ftpgp</value></link></item>
+<item><name>East european journal of physics</name><city><value>Kharkiv</value></city><link><value>http://nbuv.gov.ua/j-tit/eejph</value></link></item>
+<item><name>Economic Processes Management</name><city><value>Sumy</value></city><link><value>http://nbuv.gov.ua/j-tit/EPM</value></link></item>
+<item><name>Таврійський науковий вісник</name><city><value> Економічні науки, Херсон</value></city><link><value>http://nbuv.gov.ua/j-tit/tnven</value></link></item>
+<item><name>Україна-Польща: історична спадщина і суспільна свідомість</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/Ukrpol</value></link></item>
+<item><name>Записки Українського мінералогічного товариства</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Zumt</value></link></item>
+<item><name>Psycholinguistics</name><city><value>Переяслав-Хмельницький</value></city><link><value>http://nbuv.gov.ua/j-tit/psling</value></link></item>
+<item><name>Хлібопекарська і кондитерська промисловість України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/hpkpu</value></link></item>
+<item><name>Холодильна техніка та технологія</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/htit</value></link></item>
+<item><name>Безпека інформації</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/bezin</value></link></item>
+<item><name>Автоматизация технологических и бизнес-процессов</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/avtib</value></link></item>
+<item><name>Ukrainian journal of forest and wood science</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ujfws</value></link></item>
+<item><name>Ukrainian journal of mechanical engineering and materials science</name><city><value>Lviv</value></city><link><value>http://nbuv.gov.ua/j-tit/ujmems</value></link></item>
+<item><name>Вентиляція, освітлення та теплогазопостачання</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/votp</value></link></item>
+<item><name>Theory and building practice</name><city><value>Lviv</value></city><link><value>http://nbuv.gov.ua/j-tit/tbp</value></link></item>
+<item><name>Theory and methods of educational management</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ttmuo</value></link></item>
+<item><name>Імунологія та алергологія: наука і практика</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Ita</value></link></item>
+<item><name>Журнал европейской экономики</name><city><value>Тернополь</value></city><link><value>http://nbuv.gov.ua/j-tit/jeer</value></link></item>
+<item><name>Журнал європейської економіки</name><city><value>Тернопіль</value></city><link><value>http://nbuv.gov.ua/j-tit/jee</value></link></item>
+<item><name>Надійність інструменту та оптимізація технологічних систем</name><city><value>Краматорськ</value></city><link><value>http://nbuv.gov.ua/j-tit/Niots</value></link></item>
+<item><name>Екологічна безпека та природокористування</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ebpk</value></link></item>
+<item><name>Дентальні технології</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/dentte</value></link></item>
+<item><name>Галичина</name><city><value>Івано-Франківськ</value></city><link><value>http://nbuv.gov.ua/j-tit/Nikp</value></link></item>
+<item><name>Радіофізика та електроніка</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/rphre</value></link></item>
+<item><name>Обрії сучасної лінгвістики</name><city><value>Луганськ</value></city><link><value>http://nbuv.gov.ua/j-tit/obsl</value></link></item>
+<item><name>Світ фінансів</name><city><value>Тернопіль</value></city><link><value>http://nbuv.gov.ua/j-tit/svitfin</value></link></item>
+<item><name>Магістеріум</name><city><value> Культурологія, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Magisterium_kul</value></link></item>
+<item><name>Ліки України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/likukr</value></link></item>
+<item><name>Патологія</name><city><value>Запоріжжя</value></city><link><value>http://nbuv.gov.ua/j-tit/pathology</value></link></item>
+<item><name>Кардіохірургія та інтервенційна кардіологія</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/karx</value></link></item>
+<item><name>Физиология растений и генетика</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/FBKR</value></link></item>
+<item><name>Economics, entrepreneurship, management</name><city><value>Lviv</value></city><link><value>http://nbuv.gov.ua/j-tit/EEM</value></link></item>
+<item><name>Education: Modern Discourses</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/edmd</value></link></item>
+<item><name>Таврійський науковий вісник</name><city><value> Сільськогосподарські науки, Херсон</value></city><link><value>http://nbuv.gov.ua/j-tit/tnveconn</value></link></item>
+<item><name>Україна. Здоров'я нації</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Uzn</value></link></item>
+<item><name>Заповідна справа в Україні</name><city><value>Канів</value></city><link><value>http://nbuv.gov.ua/j-tit/zsvu</value></link></item>
+<item><name>Psychosomatic medicine and general practice</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/psmgp</value></link></item>
+<item><name>Хранение и переработка зерна</name><city><value>Днепропетровск</value></city><link><value>http://nbuv.gov.ua/j-tit/Zpz</value></link></item>
+<item><name>Художня культура. Актуальні проблеми</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/khud_kult</value></link></item>
+<item><name>Безпека інформаційних систем і технологій</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/infsts</value></link></item>
+<item><name>Автоматизація виробничих процесів у машинобудуванні та приладобудуванні</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/Avtomatyzac</value></link></item>
+<item><name>Ukrainian journal of veterinary sciences</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ujvs</value></link></item>
+<item><name>Ukrainian neurosurgical journal</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Unkhj</value></link></item>
+<item><name>Вересень</name><city><value>Миколаїв</value></city><link><value>http://nbuv.gov.ua/j-tit/vere</value></link></item>
+<item><name>Theriologia Ukrainica</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/prtheirs</value></link></item>
+<item><name>Totallogy-XXI. Постнекласичні дослідження </name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/totallogy</value></link></item>
+<item><name>Інвестиції: практика та досвід</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ipd</value></link></item>
+<item><name>Журнал клінічних та експериментальних медичних досліджень</name><city><value>Суми</value></city><link><value>http://nbuv.gov.ua/j-tit/VSU_med</value></link></item>
+<item><name>Журнал математичної фізики, аналізу, геометрії</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/jmfag</value></link></item>
+<item><name>Надтверді матеріали</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/sm</value></link></item>
+<item><name>Екологічне право України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/eklprukr</value></link></item>
+<item><name>Держава і право</name><city><value>ерія : Політичні науки, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/drpn</value></link></item>
+<item><name>Гастроентерологія</name><city><value>Дніпро</value></city><link><value>http://nbuv.gov.ua/j-tit/gastro</value></link></item>
+<item><name>Реабілітаційні та фізкультурно-рекреаційні аспекти розвитку людини</name><city><value>Рівне</value></city><link><value>http://nbuv.gov.ua/j-tit/rehrec</value></link></item>
+<item><name>Овочівництво і баштанництво</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Oib</value></link></item>
+<item><name>Світлотехніка та електроенергетика</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/svitteh</value></link></item>
+<item><name>Магістеріум</name><city><value> Літературознавчі студії, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Magisterium_lit</value></link></item>
+<item><name>Ліки України плюс</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/liku</value></link></item>
+<item><name>Педагогіка безпеки</name><city><value>Вінниця</value></city><link><value>http://nbuv.gov.ua/j-tit/pedbez</value></link></item>
+<item><name>Карпати: людина, етнос, цивілізація</name><city><value>Івано-Франківськ</value></city><link><value>http://nbuv.gov.ua/j-tit/karlec</value></link></item>
+<item><name>Физическое воспитание студентов</name><city><value>Харьков</value></city><link><value>http://nbuv.gov.ua/j-tit/PhVSTS</value></link></item>
+<item><name>Epistemological studies in philosophy, social and political sciences</name><city><value>Dnipro</value></city><link><value>http://nbuv.gov.ua/j-tit/epstphsps</value></link></item>
+<item><name>European journal of management issues</name><city><value>Dnipro</value></city><link><value>http://nbuv.gov.ua/j-tit/eurjmi</value></link></item>
+<item><name>Таврійські студії</name><city><value> Історичні науки, Сімф.</value></city><link><value>http://nbuv.gov.ua/j-tit/tavst</value></link></item>
+<item><name>Україна: аспекти праці</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Uap</value></link></item>
+<item><name>Запорожский медицинский журнал</name><city><value>Запорожье</value></city><link><value>http://nbuv.gov.ua/j-tit/Zmzh</value></link></item>
+<item><name>Public and municipal finance</name><city><value>Sumy</value></city><link><value>http://nbuv.gov.ua/j-tit/pubmunfin</value></link></item>
+<item><name>Public manаgement</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/pubm</value></link></item>
+<item><name>Библиотеки национальных академий наук: проблемы функционирования, тенденции развития</name><city><value>Киев</value></city><link><value>http://nbuv.gov.ua/j-tit/bnan</value></link></item>
+<item><name>ScienceRise</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/texc</value></link></item>
+<item><name>Автоматизовані системи управління та прилади автоматики</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/asy</value></link></item>
+<item><name>Ukrainian professional education</name><city><value>Полтава</value></city><link><value>http://nbuv.gov.ua/j-tit/upo</value></link></item>
+<item><name>Urologiya</name><city><value>Дніпро</value></city><link><value>http://nbuv.gov.ua/j-tit/Urology</value></link></item>
+<item><name>Вестник гигиены и эпидемиологии</name><city><value>Донецк</value></city><link><value>http://nbuv.gov.ua/j-tit/vgie</value></link></item>
+<item><name>Transfer of innovative technologies</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/trinntech</value></link></item>
+<item><name>Theory and practice of forensic science and criminalistics</name><city><value>Kharkiv</value></city><link><value>http://nbuv.gov.ua/j-tit/tpfsc</value></link></item>
+<item><name>Індуктивне моделювання складних систем</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Imsst</value></link></item>
+<item><name>Журнал Національної академії медичних наук України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/jnamnu</value></link></item>
+<item><name>Наносистеми, наноматеріали, нанотехнології</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Nano</value></link></item>
+<item><name>Екологічний вісник Криворіжжя</name><city><value>Кривий Ріг</value></city><link><value>http://nbuv.gov.ua/j-tit/ebkrd</value></link></item>
+<item><name>Держава і право</name><city><value> Юридичні і політичні науки, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/dip</value></link></item>
+<item><name>Гематологія і переливання крові</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/gipk</value></link></item>
+<item><name>Реабілітація та паліативна медицина</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/rpm</value></link></item>
+<item><name>Одеський лінгвістичний вісник</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/olinv</value></link></item>
+<item><name>Світова література на перехресті культур і цивілізацій</name><city><value>Сімф.</value></city><link><value>http://nbuv.gov.ua/j-tit/slnpkc</value></link></item>
+<item><name>Магістеріум</name><city><value> Мовознавчі студії, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Magisterium_mov</value></link></item>
+<item><name>Лінгвістика</name><city><value>Луганськ</value></city><link><value>http://nbuv.gov.ua/j-tit/ling</value></link></item>
+<item><name>Педагогіка і психологія</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/PiP</value></link></item>
+<item><name>Карпатика</name><city><value>Ужгород</value></city><link><value>http://nbuv.gov.ua/j-tit/karpatyka</value></link></item>
+<item><name>Филологические исследования</name><city><value>Донецк</value></city><link><value>http://nbuv.gov.ua/j-tit/Fd</value></link></item>
+<item><name>Evropský politický a právní diskurz</name><city><value>Brno</value></city><link><value>http://nbuv.gov.ua/j-tit/evpopr</value></link></item>
+<item><name>Experimental oncology</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/EOL</value></link></item>
+<item><name>Таврійські студії</name><city><value> Культурологія, Сімф.</value></city><link><value>http://nbuv.gov.ua/j-tit/tsk</value></link></item>
+<item><name>Україна: культурна спадщина, національна свідомість, державність</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/Uks</value></link></item>
+<item><name>Зарубіжна література в школах України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/zlvsh</value></link></item>
+<item><name>Pedagogy of Physical Culture and Sports</name><city><value>Kharkiv</value></city><link><value>http://nbuv.gov.ua/j-tit/PPMBE</value></link></item>
+<item><name>Бионика интеллекта</name><city><value>Харьков</value></city><link><value>http://nbuv.gov.ua/j-tit/bioi</value></link></item>
+<item><name>ScienceRise</name><city><value> Biological science, Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/texcsbs</value></link></item>
+<item><name>Автоматика. Автоматизація. Електротехнічні комплекси та системи</name><city><value>Херсон</value></city><link><value>http://nbuv.gov.ua/j-tit/aaeks</value></link></item>
+<item><name>Ucraina magna</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ucrmag</value></link></item>
+<item><name>Ukrainian food journal</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/UFJ</value></link></item>
+<item><name>Вестник двигателестроения</name><city><value>Запорожье</value></city><link><value>http://nbuv.gov.ua/j-tit/vidv</value></link></item>
+<item><name>Theory and practice of science education</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/tpse</value></link></item>
+<item><name>Theory of Stochastic Processes</name><city><value>Kiev</value></city><link><value>http://nbuv.gov.ua/j-tit/Tsp</value></link></item>
+<item><name>Transport technologies</name><city><value>Lviv</value></city><link><value>http://nbuv.gov.ua/j-tit/trtech</value></link></item>
+<item><name>Індустрія моди</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/legpro</value></link></item>
+<item><name>Журнал неврології ім. Б. М. Маньковського</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/jorn</value></link></item>
+<item><name>Журнал обчислювальної та прикладної математики</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/jopm</value></link></item>
+<item><name>Наноструктурное материаловедение</name><city><value>Киев</value></city><link><value>http://nbuv.gov.ua/j-tit/Nanm</value></link></item>
+<item><name>Екологічні науки</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ekolnauk</value></link></item>
+<item><name>Держава і право</name><city><value>ерія : Юридичні науки, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/jurnaukdir</value></link></item>
+<item><name>Генеалогічні записки</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/genzap</value></link></item>
+<item><name>Региональные проблемы архитектуры и градостроительства</name><city><value>Одесса</value></city><link><value>http://nbuv.gov.ua/j-tit/rpam</value></link></item>
+<item><name>Одеський медичний журнал</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/Omj</value></link></item>
+<item><name>Світогляд</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Svit</value></link></item>
+<item><name>Магістеріум</name><city><value> Політичні студії, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Magisterium_p</value></link></item>
+<item><name>Лінгвістика ХХІ століття</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/linds</value></link></item>
+<item><name>Педагогіка і психологія професійної освіти</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/Pippo</value></link></item>
+<item><name>Карпатський край</name><city><value>Івано-Франківськ</value></city><link><value>http://nbuv.gov.ua/j-tit/kkr</value></link></item>
+<item><name>Финансовые услуги</name><city><value>Киев</value></city><link><value>http://nbuv.gov.ua/j-tit/finu</value></link></item>
+<item><name>Таврійські студії</name><city><value> Мистецтвознавство, Сімф.</value></city><link><value>http://nbuv.gov.ua/j-tit/tsm</value></link></item>
+<item><name>Українознавство</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Ukr</value></link></item>
+<item><name>Засоби навчальної та науково-дослідної роботи</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/znpkhnpu_zntndr</value></link></item>
+<item><name>Physical education of students</name><city><value>Kharkiv</value></city><link><value>http://nbuv.gov.ua/j-tit/PhVSTSE</value></link></item>
+<item><name>Бібліотекознавство. Документознавство. Інформологія</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/bdi</value></link></item>
+<item><name>ScienceRise</name><city><value> Juridical Science, Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/srjusc</value></link></item>
+<item><name>Автоматичне зварювання</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/as</value></link></item>
+<item><name>Ukrainian journal of food science</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/ujfs</value></link></item>
+<item><name>Ukrainian journal of physical optics</name><city><value>Lviv</value></city><link><value>http://nbuv.gov.ua/j-tit/UJPO</value></link></item>
+<item><name>Вестник зоологии</name><city><value>Киев</value></city><link><value>http://nbuv.gov.ua/j-tit/vzl</value></link></item>
+<item><name>Інженерія природокористування</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/Iprk</value></link></item>
+<item><name>Журнал органічної та фармацевтичної хімії</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/jofkh</value></link></item>
+<item><name>Журнал практикуючого психолога</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/jpp</value></link></item>
+<item><name>Народна освіта</name><city><value>Біла Церква</value></city><link><value>http://nbuv.gov.ua/j-tit/NarOsv</value></link></item>
+<item><name>Екологія довкілля та безпека життєдіяльності</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/edbj</value></link></item>
+<item><name>Держава та регіони</name><city><value>ерія : Гуманітарні науки, Запоріжжя</value></city><link><value>http://nbuv.gov.ua/j-tit/drgn</value></link></item>
+<item><name>Генетичні ресурси рослин</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/grr</value></link></item>
+<item><name>Регіональна бізнес-економіка та управління</name><city><value>Вінниця</value></city><link><value>http://nbuv.gov.ua/j-tit/Rbetu</value></link></item>
+<item><name>Озброєння та військова техніка</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ovt</value></link></item>
+<item><name>Світогляд - Філософія - Релігія</name><city><value>Суми</value></city><link><value>http://nbuv.gov.ua/j-tit/sfr</value></link></item>
+<item><name>Магістеріум</name><city><value> Природничі науки, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Magisterium_pr</value></link></item>
+<item><name>Лінгвістика. Лінгвокультурологія</name><city><value>Дніпро</value></city><link><value>http://nbuv.gov.ua/j-tit/lin</value></link></item>
+<item><name>Педагогіка та психологія</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/znpkhnpu_ped</value></link></item>
+<item><name>Карпатські математичні публікації</name><city><value>Івано-Франківськ</value></city><link><value>http://nbuv.gov.ua/j-tit/Kmp</value></link></item>
+<item><name>Фізика аеродисперсних систем</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/Fas</value></link></item>
+<item><name>Таїни художнього тексту (до проблеми поетики тексту)</name><city><value>Дніпропетровськ</value></city><link><value>http://nbuv.gov.ua/j-tit/Tkht</value></link></item>
+<item><name>Українознавчий альманах</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Ukralm</value></link></item>
+<item><name>Захист довкілля від антропогенного навантаження</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/ZDAN</value></link></item>
+<item><name>Problems and perspectives in management</name><city><value>Sumy</value></city><link><value>http://nbuv.gov.ua/j-tit/prperman</value></link></item>
+<item><name>Бібліотечна планета</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/bp</value></link></item>
+<item><name>ScienceRise</name><city><value> Medical science, Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/texcsrm</value></link></item>
+<item><name>Автомобіль і електроніка. Сучасні технології</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/veit</value></link></item>
+<item><name>Ukrainian journal of physics</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/Ukjourph</value></link></item>
+<item><name>Ukrainian journal of veterinary and agricultural sciences</name><city><value>Lviv</value></city><link><value>http://nbuv.gov.ua/j-tit/ujvas</value></link></item>
+<item><name>Вестник Клуба панкреотологов</name><city><value>Киев</value></city><link><value>http://nbuv.gov.ua/j-tit/Chem_Biol</value></link></item>
+<item><name>Інженерія програмного забезпечення</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Ipz</value></link></item>
+<item><name>Журнал психіатрії та медичної психології</name><city><value>Донецьк</value></city><link><value>http://nbuv.gov.ua/j-tit/jpmp</value></link></item>
+<item><name>Журнал східноєвропейського права</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/jousepr</value></link></item>
+<item><name>Народна творчість та етнологія</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/NTE</value></link></item>
+<item><name>Екологія і природокористування</name><city><value>Дніпропетровськ</value></city><link><value>http://nbuv.gov.ua/j-tit/ecolpr</value></link></item>
+<item><name>Держава та регіони</name><city><value>ерія : Державне управління, Запоріжжя</value></city><link><value>http://nbuv.gov.ua/j-tit/drdu</value></link></item>
+<item><name>Географія та туризм</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/gt</value></link></item>
+<item><name>Регіональна економіка</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/regek</value></link></item>
+<item><name>Онкология</name><city><value>Киев</value></city><link><value>http://nbuv.gov.ua/j-tit/OL</value></link></item>
+<item><name>Сейсмологический бюллетень Украины</name><city><value>Симф.</value></city><link><value>http://nbuv.gov.ua/j-tit/seism</value></link></item>
+<item><name>Магістеріум</name><city><value> Соціальна робота і охорона здоров’я, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Magisterium_s</value></link></item>
+<item><name>Лінгвістичний вісник</name><city><value>Бахмут</value></city><link><value>http://nbuv.gov.ua/j-tit/livis</value></link></item>
+<item><name>Педагогіка формування творчої особистості у вищій і загальноосвітній школах</name><city><value>Запоріжжя</value></city><link><value>http://nbuv.gov.ua/j-tit/Pfto</value></link></item>
+<item><name>Картоплярство</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/karto</value></link></item>
+<item><name>Фізика живого</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Fiz_zhyv</value></link></item>
+<item><name>Танцювальні студії</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ds</value></link></item>
+<item><name>Українознавчі студії</name><city><value>Івано-Франківськ</value></city><link><value>http://nbuv.gov.ua/j-tit/Us</value></link></item>
+<item><name>Захист і карантин рослин</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Zikr</value></link></item>
+<item><name>Proceedings of the International Conference Nanomaterials: Applications and Properties</name><city><value>Sumy</value></city><link><value>http://nbuv.gov.ua/j-tit/princon</value></link></item>
+<item><name>Бібліотечний вісник</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/bv</value></link></item>
+<item><name>ScienceRise</name><city><value> Pedagogical Education, Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/texcped</value></link></item>
+<item><name>Автомобільний транспорт</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/at</value></link></item>
+<item><name>Ukrainian policymaker</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/ukpolic</value></link></item>
+<item><name>Ukrainica bioorganica acta</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Uba</value></link></item>
+<item><name>Вестник физиотерапии и курортологии</name><city><value>Евпатория</value></city><link><value>http://nbuv.gov.ua/j-tit/VPhk</value></link></item>
+<item><name>Інженерна геодезія</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Ig</value></link></item>
+<item><name>Журнал фізики та інженерії поверхні</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/jsphen</value></link></item>
+<item><name>Журнал фізичних досліджень</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/jphd</value></link></item>
+<item><name>Народознавчі зошити</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/NaZo</value></link></item>
+<item><name>Економіка АПК</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/E_apk</value></link></item>
+<item><name>Держава та регіони</name><city><value>ерія : Економіка та підприємництво, Запоріжжя</value></city><link><value>http://nbuv.gov.ua/j-tit/drep</value></link></item>
+<item><name>Геоінженерія</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/geoeng</value></link></item>
+<item><name>Регіональна історія України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/reisuk</value></link></item>
+<item><name>Оновлення змісту, форм та методів навчання і виховання в закладах освіти</name><city><value>Рівне</value></city><link><value>http://nbuv.gov.ua/j-tit/Ozfm</value></link></item>
+<item><name>Селекція і насінництво</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/selinas</value></link></item>
+<item><name>Магістеріум</name><city><value> Хімічні науки, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Magisterium_x</value></link></item>
+<item><name>Лінгвістичні дослідження</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/znpkhnpu_lingv</value></link></item>
+<item><name>Педагогіка, психологія та медико-біологічні проблеми фізичного виховання і спорту</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/PPMB</value></link></item>
+<item><name>Картоплярство України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/kartu</value></link></item>
+<item><name>Фізика і хімія твердого тіла</name><city><value>Івано-Франківськ</value></city><link><value>http://nbuv.gov.ua/j-tit/PhKhTT</value></link></item>
+<item><name>Тваринництво України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/TvUkr</value></link></item>
+<item><name>Українська академія мистецтва</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Uam</value></link></item>
+<item><name>Захист інформації</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Zi</value></link></item>
+<item><name>Public policy and economic development</name><city><value>Mykolayiv</value></city><link><value>http://nbuv.gov.ua/j-tit/pped</value></link></item>
+<item><name>Бібліотечний Меркурій</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/libmer</value></link></item>
+<item><name>ScienceRise</name><city><value> Pharmaceutical Science, Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/texcfarm</value></link></item>
+<item><name>Автомобільні дороги і дорожне будівництво</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/adidb</value></link></item>
+<item><name>Ветеринарія, технології тваринництва та природокористування</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/pzvm</value></link></item>
+<item><name>Інженерні та освітні технології</name><city><value>Кременчук</value></city><link><value>http://nbuv.gov.ua/j-tit/itot</value></link></item>
+<item><name>Журналістика</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/zhur</value></link></item>
+<item><name>Народознавчі зошити</name><city><value> серія історична, Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/NaZoi</value></link></item>
+<item><name>Економіка будівництва і міського господарства</name><city><value>Макіївка</value></city><link><value>http://nbuv.gov.ua/j-tit/ebimg</value></link></item>
+<item><name>Держава та регіони</name><city><value>ерія : Право, Запоріжжя</value></city><link><value>http://nbuv.gov.ua/j-tit/drp</value></link></item>
+<item><name>Геоінформатика</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/geoinf</value></link></item>
+<item><name>Регіональні аспекти розвитку продуктивних сил України</name><city><value>Тернопіль</value></city><link><value>http://nbuv.gov.ua/j-tit/rarpsu</value></link></item>
+<item><name>Опір матеріалів і теорія споруд</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/omts</value></link></item>
+<item><name>Сенсорна електроніка і мікросистемні технології</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/seimt</value></link></item>
+<item><name>Магістр медсестринства</name><city><value>Житомир</value></city><link><value>http://nbuv.gov.ua/j-tit/MagM</value></link></item>
+<item><name>Лінгвістичні студії</name><city><value>Вінниця</value></city><link><value>http://nbuv.gov.ua/j-tit/lingst</value></link></item>
+<item><name>Педагогічна освіта: теорія і практика</name><city><value>Кам'янець-Подільський</value></city><link><value>http://nbuv.gov.ua/j-tit/znppo</value></link></item>
+<item><name>Каталіз та нафтохімія</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/KiN</value></link></item>
+<item><name>Фізика конденсованих високомолекулярних систем</name><city><value>Рівне</value></city><link><value>http://nbuv.gov.ua/j-tit/Fkvs</value></link></item>
+<item><name>Текст і образ: актуальні проблеми історії мистецтва</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/tiepah</value></link></item>
+<item><name>Українська біографістика</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ubi</value></link></item>
+<item><name>Збагачення корисних копалин</name><city><value>Дніпро</value></city><link><value>http://nbuv.gov.ua/j-tit/Zkk</value></link></item>
+<item><name>Біблія і культура</name><city><value>Чернівці</value></city><link><value>http://nbuv.gov.ua/j-tit/bicu</value></link></item>
+<item><name>Scientific digest of Association of obstetricians and gynaecologists of Ukraine</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/znpaagu</value></link></item>
+<item><name>Автохтонні та інтродуковані рослини</name><city><value>Умань</value></city><link><value>http://nbuv.gov.ua/j-tit/atiru</value></link></item>
+<item><name>Ветеринарна біотехнологія</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/vbtb</value></link></item>
+<item><name>Інноватика у вихованні</name><city><value>Рівне</value></city><link><value>http://nbuv.gov.ua/j-tit/inuv</value></link></item>
+<item><name>Народознавчі зошити</name><city><value> серія мистецтвознавча, Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/NazMicte</value></link></item>
+<item><name>Економіка і менеджмент культури </name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ekmk</value></link></item>
+<item><name>Держава та регіони</name><city><value>ерія : Соціальні комунікації, Запоріжжя</value></city><link><value>http://nbuv.gov.ua/j-tit/drsk</value></link></item>
+<item><name>Геолог України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/geoukr</value></link></item>
+<item><name>Реєстрація, зберігання і обробка даних</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/rzod</value></link></item>
+<item><name>Оптико-електронні інформаційно-енергетичні технології</name><city><value>Вінниця</value></city><link><value>http://nbuv.gov.ua/j-tit/oeiet</value></link></item>
+<item><name>Серце і судини</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/sis</value></link></item>
+<item><name>Малий і середній бізнес (право, держава, економіка)</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Misb</value></link></item>
+<item><name>Лінгвостилістичні студії</name><city><value>Луцьк</value></city><link><value>http://nbuv.gov.ua/j-tit/ls</value></link></item>
+<item><name>Педагогічна освіта: теорія і практика. Психологія. Педагогіка</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Potip</value></link></item>
+<item><name>Качество минерального сырья</name><city><value>Кривой Рог</value></city><link><value>http://nbuv.gov.ua/j-tit/kachmin</value></link></item>
+<item><name>Фізика низьких температур</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/PhNT</value></link></item>
+<item><name>Тектоніка і стратиграфія</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Tis</value></link></item>
+<item><name>Українська культура: минуле, сучасне, шляхи розвитку</name><city><value>Рівне</value></city><link><value>http://nbuv.gov.ua/j-tit/Uk_msshr</value></link></item>
+<item><name>Збалансоване природокористування</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Zp</value></link></item>
+<item><name>Бізнес Інформ</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/binf</value></link></item>
+<item><name>Scientific notes of the institute of journalism</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Nzizh</value></link></item>
+<item><name>Автошляховик України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/au</value></link></item>
+<item><name>Ветеринарна медицина</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/vetmed</value></link></item>
+<item><name>Інновації в стоматології</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/innvstom</value></link></item>
+<item><name>Народознавчі зошити</name><city><value> серія філологічна, Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/narzfil</value></link></item>
+<item><name>Економіка і організація управління</name><city><value>Вінниця</value></city><link><value>http://nbuv.gov.ua/j-tit/eiou</value></link></item>
+<item><name>Державне будівництво</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/DeBu</value></link></item>
+<item><name>Геологічний журнал</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/geojur</value></link></item>
+<item><name>Резание и инструменты в технологических системах</name><city><value>Харьков</value></city><link><value>http://nbuv.gov.ua/j-tit/rits</value></link></item>
+<item><name>Оптимізація виробничих процесів</name><city><value>Севастополь</value></city><link><value>http://nbuv.gov.ua/j-tit/ovp</value></link></item>
+<item><name>Синопсис: текст, контекст, медіа</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/stkm</value></link></item>
+<item><name>Мандрівець</name><city><value>Тернопіль</value></city><link><value>http://nbuv.gov.ua/j-tit/Mandriv</value></link></item>
+<item><name>Лісівництво і агролісомеліорація</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/lisam</value></link></item>
+<item><name>Педагогічна теорія і практика</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Vkmu</value></link></item>
+<item><name>Квалілогія книги</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/Kk</value></link></item>
+<item><name>Фізико-математична освіта</name><city><value>Суми</value></city><link><value>http://nbuv.gov.ua/j-tit/fmo</value></link></item>
+<item><name>Теле- та радіожурналістика</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/Tir</value></link></item>
+<item><name>Українська культура: минуле, сучасне, шляхи розвитку</name><city><value> Культурологія, Рівне</value></city><link><value>http://nbuv.gov.ua/j-tit/ukrk</value></link></item>
+<item><name>Збірник навчально-методичних матеріалів і наукових статей історичного факультету</name><city><value>Луцьк</value></city><link><value>http://nbuv.gov.ua/j-tit/znmm</value></link></item>
+<item><name>Бізнес-навігатор</name><city><value>Херсон</value></city><link><value>http://nbuv.gov.ua/j-tit/bnav</value></link></item>
+<item><name>Scriptorium nostrum</name><city><value>Херсон</value></city><link><value>http://nbuv.gov.ua/j-tit/scno</value></link></item>
+<item><name>Аграрна економіка</name><city><value>Дубляни</value></city><link><value>http://nbuv.gov.ua/j-tit/ae</value></link></item>
+<item><name>Ветеринарна медицина України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/vetm</value></link></item>
+<item><name>Інноваційна економіка</name><city><value>Тернопіль</value></city><link><value>http://nbuv.gov.ua/j-tit/inek</value></link></item>
+<item><name>Насінництво</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/nasin</value></link></item>
+<item><name>Економіка і право охорони здоров'я</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/eprozd</value></link></item>
+<item><name>Державне будівництво та місцеве самоврядування</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/dbms</value></link></item>
+<item><name>Геологія і геохімія горючих копалин</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/giggk</value></link></item>
+<item><name>Рейковий рухомий склад</name><city><value>Кременчук</value></city><link><value>http://nbuv.gov.ua/j-tit/reruck</value></link></item>
+<item><name>Оптоэлектроника и полупроводниковая техника</name><city><value>Киев</value></city><link><value>http://nbuv.gov.ua/j-tit/ont</value></link></item>
+<item><name>Система і структура східнослов'янських мов</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/sissm</value></link></item>
+<item><name>Маркетинг в Україні</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Mvu</value></link></item>
+<item><name>Лісове господарство, лісова, паперова і деревообробна промисловість</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/lglpdp</value></link></item>
+<item><name>Педагогічний альманах</name><city><value>Херсон</value></city><link><value>http://nbuv.gov.ua/j-tit/pedalm</value></link></item>
+<item><name>Кераміка: наука і життя</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Knizh</value></link></item>
+<item><name>Фізико-математичне моделювання та інформаційні технології</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/Fmmit</value></link></item>
+<item><name>Телекомунікаційні та інформаційні технології</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/vduikt</value></link></item>
+<item><name>Українська культура: минуле, сучасне, шляхи розвитку</name><city><value> Мистецтвознавство, Рівне</value></city><link><value>http://nbuv.gov.ua/j-tit/ukrkm</value></link></item>
+<item><name>Збірник наукових праць [Буковинського університету]</name><city><value> Економічні науки, Чернівці</value></city><link><value>http://nbuv.gov.ua/j-tit/znpen</value></link></item>
+<item><name>Біоекономіка та аграрний бізнес</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/biagbu</value></link></item>
+<item><name>Sententiae</name><city><value>Вінниця</value></city><link><value>http://nbuv.gov.ua/j-tit/senten</value></link></item>
+<item><name>Аграрна наука і освіта</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/agrarn</value></link></item>
+<item><name>Взрывозащищенное электрооборудование</name><city><value>Донецк</value></city><link><value>http://nbuv.gov.ua/j-tit/Ve</value></link></item>
+<item><name>Інноваційна педагогіка</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/innped</value></link></item>
+<item><name>Наука в олимпийском спорте</name><city><value>Киев</value></city><link><value>http://nbuv.gov.ua/j-tit/NOS</value></link></item>
+<item><name>Економіка і прогнозування</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/econprog</value></link></item>
+<item><name>Державне управління та місцеве самоврядування</name><city><value>Дніпро</value></city><link><value>http://nbuv.gov.ua/j-tit/dums</value></link></item>
+<item><name>Геологія і корисні копалини Світового океану</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/gikkso</value></link></item>
+<item><name>Реконструкція житла</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/recj</value></link></item>
+<item><name>Організаційна психологія. Економічна психологія</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ophep</value></link></item>
+<item><name>Системи обробки інформації</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/soi</value></link></item>
+<item><name>Маркетинг і менеджмент інновацій</name><city><value>Суми</value></city><link><value>http://nbuv.gov.ua/j-tit/Mimi</value></link></item>
+<item><name>Лісове і садово-паркове господарство</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/licgoc</value></link></item>
+<item><name>Педагогічний дискурс</name><city><value>Хмельницький</value></city><link><value>http://nbuv.gov.ua/j-tit/0peddysk</value></link></item>
+<item><name>Кибернетика и системный анализ</name><city><value>Киев</value></city><link><value>http://nbuv.gov.ua/j-tit/KSA</value></link></item>
+<item><name>Фізико-хімічна механіка матеріалів</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/PHKhMM</value></link></item>
+<item><name>Теоретико-методичні проблеми виховання дітей та учнівської молоді</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Tmpvd</value></link></item>
+<item><name>Українська література в загальноосвітній школі</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Ulvzsh</value></link></item>
+<item><name>Збірник наукових праць [Військового інституту телекомунікацій та інформатизації]</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Znpviti</value></link></item>
+<item><name>Біоенергетика</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Bioen</value></link></item>
+<item><name>Shipbuilding &amp; marine infrastructure</name><city><value>Николаев</value></city><link><value>http://nbuv.gov.ua/j-tit/smi</value></link></item>
+<item><name>Аграрна наука та харчові технології</name><city><value>Вінниця</value></city><link><value>http://nbuv.gov.ua/j-tit/anxt</value></link></item>
+<item><name>Вибори та демократія</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/vtde</value></link></item>
+<item><name>Іноземна філологія</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/infil</value></link></item>
+<item><name>Наука й економіка</name><city><value>Хмельницький</value></city><link><value>http://nbuv.gov.ua/j-tit/Nie</value></link></item>
+<item><name>Економіка і регіон</name><city><value>Полтава</value></city><link><value>http://nbuv.gov.ua/j-tit/econrig</value></link></item>
+<item><name>Державне управління: теорія та практика</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Dutp</value></link></item>
+<item><name>Геологія та рудоносність України</name><city><value>Дніпро</value></city><link><value>http://nbuv.gov.ua/j-tit/gtru</value></link></item>
+<item><name>Релігійна свобода</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/relsvobspv</value></link></item>
+<item><name>Ортопедия, травматология и протезирование</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/OpTlP</value></link></item>
+<item><name>Системи озброєння і військова техніка</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/soivt</value></link></item>
+<item><name>Маркетинг і цифрові технології</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/mardigt</value></link></item>
+<item><name>Лісовий журнал</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Nvv_lisj</value></link></item>
+<item><name>Педагогічний пошук</name><city><value>Луцьк</value></city><link><value>http://nbuv.gov.ua/j-tit/pedp</value></link></item>
+<item><name>Київська Академія</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Kievakad</value></link></item>
+<item><name>Фізична активність, здоров'я і спорт</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/Fazis</value></link></item>
+<item><name>Теоретическая и экспериментальная химия</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/TEChem</value></link></item>
+<item><name>Українська мова</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Ukrm</value></link></item>
+<item><name>Збірник наукових праць [Полтавського національного технічного університету ім. Ю. Кондратюка]</name><city><value>ерія : Галузеве машинобудування, будівництво, Полтава</value></city><link><value>http://nbuv.gov.ua/j-tit/Znpgmb</value></link></item>
+<item><name>Біологічний вісник МДПУ ім. Б. Хмельницького</name><city><value>Мелітополь</value></city><link><value>http://nbuv.gov.ua/j-tit/bvmd</value></link></item>
+<item><name>Social development &amp; Security</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/socdevsec</value></link></item>
+<item><name>Аграрний вісник Причорномор'я</name><city><value> Біологічні науки, Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/avpb</value></link></item>
+<item><name>Викладання мов у вищих навчальних закладах освіти на сучасному етапі. Міжпредметні зв'язки. Наукові дослідження. Досвід. Пошуки</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/vmvn</value></link></item>
+<item><name>Іноземні мови</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/im</value></link></item>
+<item><name>Наука і оборона</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/nauio</value></link></item>
+<item><name>Економіка і управління</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/econupr</value></link></item>
+<item><name>Державне управління: удосконалення та розвиток</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Duur</value></link></item>
+<item><name>Геолого-мінералогічний вісник Криворізького національного університету</name><city><value>Кривий Ріг</value></city><link><value>http://nbuv.gov.ua/j-tit/gmvknu</value></link></item>
+<item><name>Релігійна свобода</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/religfree</value></link></item>
+<item><name>Освіта дорослих: теорія, досвід, перспективи</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/OD</value></link></item>
+<item><name>Системи та технології</name><city><value>Дніпро</value></city><link><value>http://nbuv.gov.ua/j-tit/vamsutn</value></link></item>
+<item><name>Маркетинг: теорія і практика</name><city><value>Луганськ</value></city><link><value>http://nbuv.gov.ua/j-tit/Mtip</value></link></item>
+<item><name>Література в контексті культури</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/lvk</value></link></item>
+<item><name>Педагогічний процес: теорія і практика</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/pptp</value></link></item>
+<item><name>Київська старовина</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/kiev_old</value></link></item>
+<item><name>Фізична географія та геоморфологія</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/fiz_geo</value></link></item>
+<item><name>Теоретична і дидактична філологія</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/Tidf</value></link></item>
+<item><name>Українська мова і література в школі</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Umlsh</value></link></item>
+<item><name>Збірник наукових праць [Харківського національного педагогічного університету імені Г. С. Сковороди]</name><city><value>ерія : "Історія та географія", Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/znpkhnpu_ist</value></link></item>
+<item><name>Біологічні системи</name><city><value>Чернівці</value></city><link><value>http://nbuv.gov.ua/j-tit/biolsist</value></link></item>
+<item><name>Social work and education</name><city><value>Ternopil</value></city><link><value>http://nbuv.gov.ua/j-tit/socworkeduc</value></link></item>
+<item><name>Аграрний вісник Причорномор'я</name><city><value> Ветеринарні науки, Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/avpvet</value></link></item>
+<item><name>Вимірювальна та обчислювальна техніка в технологічних процесах</name><city><value>Хмельницький</value></city><link><value>http://nbuv.gov.ua/j-tit/vott</value></link></item>
+<item><name>Інститут бухгалтерського обліку, контроль та аналіз в умовах глобалізації</name><city><value>Тернопіль</value></city><link><value>http://nbuv.gov.ua/j-tit/iacagc</value></link></item>
+<item><name>Наука і освіта</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/NiO</value></link></item>
+<item><name>Економіка природокористування і сталий розвиток</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/epod</value></link></item>
+<item><name>Державний інформаційний бюлетень про приватизацію</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/dibpp</value></link></item>
+<item><name>Геометричне моделювання та інформаційні технології</name><city><value>Миколаїв</value></city><link><value>http://nbuv.gov.ua/j-tit/gmtit</value></link></item>
+<item><name>Релігія та соціум</name><city><value>Чернівці</value></city><link><value>http://nbuv.gov.ua/j-tit/relsoc</value></link></item>
+<item><name>Освіта і управління</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/OiU</value></link></item>
+<item><name>Системи управління, навігації та зв'язку</name><city><value>Полтава</value></city><link><value>http://nbuv.gov.ua/j-tit/suntz</value></link></item>
+<item><name>Математичне моделювання</name><city><value>Кам'янське</value></city><link><value>http://nbuv.gov.ua/j-tit/Mm</value></link></item>
+<item><name>Література та культура Полісся</name><city><value>Ніжин</value></city><link><value>http://nbuv.gov.ua/j-tit/Ltkp</value></link></item>
+<item><name>Педагогічний часопис Волині</name><city><value>Луцьк</value></city><link><value>http://nbuv.gov.ua/j-tit/pchv</value></link></item>
+<item><name>Київське музикознавство</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/kmuz</value></link></item>
+<item><name>Фізична інженерія поверхні</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/Phip</value></link></item>
+<item><name>Теоретична і дидактична філологія</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/tdf</value></link></item>
+<item><name>Українська музика</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/Ukrmuzyka</value></link></item>
+<item><name>Збірник наукових праць [Херсонського державного університету]</name><city><value> Педагогічні науки, Херсон</value></city><link><value>http://nbuv.gov.ua/j-tit/znppn</value></link></item>
+<item><name>Біологічні студії</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/bist</value></link></item>
+<item><name>SocioEconomic Challenges</name><city><value>Sumy</value></city><link><value>http://nbuv.gov.ua/j-tit/seconch</value></link></item>
+<item><name>Аграрний вісник Причорномор'я</name><city><value> Економічні науки, Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/avpek</value></link></item>
+<item><name>Вимірювальна техніка та метрологія </name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/metrolog</value></link></item>
+<item><name>Інституціональний вектор економічного розвитку</name><city><value>Мелітополь</value></city><link><value>http://nbuv.gov.ua/j-tit/iver</value></link></item>
+<item><name>Наука і правоохорона</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Nip</value></link></item>
+<item><name>Економіка промисловості</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/econpr</value></link></item>
+<item><name>Державно-управлінські студії</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/deruprs</value></link></item>
+<item><name>Геополитика и экогеодинамика регионов</name><city><value>Симф.</value></city><link><value>http://nbuv.gov.ua/j-tit/gegdr</value></link></item>
+<item><name>Ренесансні студії</name><city><value>Запоріжжя</value></city><link><value>http://nbuv.gov.ua/j-tit/renst</value></link></item>
+<item><name>Освіта на Луганщині</name><city><value>Луганськ</value></city><link><value>http://nbuv.gov.ua/j-tit/Onl</value></link></item>
+<item><name>Системне проектування та аналіз характеристик аерокосмічної техніки</name><city><value>Дніпропетровськ</value></city><link><value>http://nbuv.gov.ua/j-tit/sptahat</value></link></item>
+<item><name>Математичне моделювання в економіці</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/mmve</value></link></item>
+<item><name>Література та культура Полісся</name><city><value>ерія : Історичні науки, Ніжин</value></city><link><value>http://nbuv.gov.ua/j-tit/Ltkpist</value></link></item>
+<item><name>Педагогічні інновації: ідеї, реалії, перспективи</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ped_in</value></link></item>
+<item><name>Київські історичні студії</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Khs</value></link></item>
+<item><name>Фізична культура, спорт та здоров'я нації</name><city><value>Вінниця</value></city><link><value>http://nbuv.gov.ua/j-tit/Fkszn</value></link></item>
+<item><name>Теоретична і дидактична філологія</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/teordf</value></link></item>
+<item><name>Українська наука: минуле, сучасне, майбутнє</name><city><value>Тернопіль</value></city><link><value>http://nbuv.gov.ua/j-tit/Un_msm</value></link></item>
+<item><name>Збірник наукових праць Академії військово-морських сил імені П. С. Нахімова</name><city><value>Севастополь</value></city><link><value>http://nbuv.gov.ua/j-tit/znpavms</value></link></item>
+<item><name>Біологія і хімія в сучасній школі</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/bhvs</value></link></item>
+<item><name>Sophia Prima: діалог вічного повернення</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/sopder</value></link></item>
+<item><name>Аграрний вісник Причорномор'я</name><city><value> Сільськогосподарські науки, Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/avpcx</value></link></item>
+<item><name>Виноградарство и виноделие</name><city><value>Ялта</value></city><link><value>http://nbuv.gov.ua/j-tit/vino</value></link></item>
+<item><name>Інтегративна антропологія</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/Ia</value></link></item>
+<item><name>Наука і практика</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/nauipr</value></link></item>
+<item><name>Економіка ринкових відносин</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ecrv</value></link></item>
+<item><name>Дерматовенерология. Косметология. Сексопатология</name><city><value>Днепропетровск</value></city><link><value>http://nbuv.gov.ua/j-tit/dcs</value></link></item>
+<item><name>Геополітика України: історія і сучасність</name><city><value>Ужгород</value></city><link><value>http://nbuv.gov.ua/j-tit/gpuis</value></link></item>
+<item><name>Репродуктивна ендокринологія</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/repe</value></link></item>
+<item><name>Освіта осіб з особливими потребами: шляхи розбудови</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ooop</value></link></item>
+<item><name>Системний аналіз та інформаційні технології у науках про природу та суспільство</name><city><value>Донецк</value></city><link><value>http://nbuv.gov.ua/j-tit/sanps</value></link></item>
+<item><name>Математичне та комп'ютерне моделювання</name><city><value>ерія : Технічні науки, Кам'янець-Подільський</value></city><link><value>http://nbuv.gov.ua/j-tit/Mtkm_tekh</value></link></item>
+<item><name>Література та культура Полісся</name><city><value>ерія : Філологічні науки, Ніжин</value></city><link><value>http://nbuv.gov.ua/j-tit/Ltkpfil</value></link></item>
+<item><name>Педагогічні науки</name><city><value>Полтава</value></city><link><value>http://nbuv.gov.ua/j-tit/pena</value></link></item>
+<item><name>Київські полоністичні студії</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/kps</value></link></item>
+<item><name>Фізичне виховання, спорт і культура здоров'я у сучасному суспільстві</name><city><value>Луцьк</value></city><link><value>http://nbuv.gov.ua/j-tit/Fvs</value></link></item>
+<item><name>Теоретична та прикладна механіка</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/Tpm</value></link></item>
+<item><name>Українська національна ідея: реалії та перспективи розвитку</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/Unir</value></link></item>
+<item><name>Збірник наукових праць Бердянського державного педагогічного університету </name><city><value> Педагогічні науки, Бердянськ</value></city><link><value>http://nbuv.gov.ua/j-tit/znpbdpu</value></link></item>
+<item><name>Біологія та валеологія</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/znpkhnpu_bio</value></link></item>
+<item><name>Studia Germanica et Romanica: Іноземні мови. Зарубіжна література. Методика викладання</name><city><value>Донецьк</value></city><link><value>http://nbuv.gov.ua/j-tit/Stgerm</value></link></item>
+<item><name>Аграрний вісник Причорномор'я</name><city><value> Технічні науки, Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/avpt</value></link></item>
+<item><name>Виноградарство і виноробство</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/vinogvinor</value></link></item>
+<item><name>Інтегровані комунікації</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/integcommu</value></link></item>
+<item><name>Наука і сучасність</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Nis</value></link></item>
+<item><name>Економіка розвитку</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/ecro</value></link></item>
+<item><name>Дерматологія та венерологія</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/dtv</value></link></item>
+<item><name>Геотехнічна механіка</name><city><value>Дніпро</value></city><link><value>http://nbuv.gov.ua/j-tit/gtm</value></link></item>
+<item><name>Репродуктивне здоров’я жінки</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/rzzh</value></link></item>
+<item><name>Освіта регіону</name><city><value>Кременчук</value></city><link><value>http://nbuv.gov.ua/j-tit/Or</value></link></item>
+<item><name>Системні дослідження та інформаційні технології</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/sdtit</value></link></item>
+<item><name>Математичне та комп'ютерне моделювання</name><city><value>ерія : Фізико-математичні науки, Кам'янець-Подільський</value></city><link><value>http://nbuv.gov.ua/j-tit/Mtkm_fiz_mat</value></link></item>
+<item><name>Література. Фольклор. Проблеми поетики</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Lfpp</value></link></item>
+<item><name>Педагогічні науки: теорія, історія, інноваційні технології</name><city><value>Суми</value></city><link><value>http://nbuv.gov.ua/j-tit/pednauk</value></link></item>
+<item><name>Кинематика и физика небесных тел</name><city><value>Киев</value></city><link><value>http://nbuv.gov.ua/j-tit/KPhNT</value></link></item>
+<item><name>Фізіологічний журнал</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Fiziol</value></link></item>
+<item><name>Теоретичні й прикладні проблеми сучасної філології</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/tppsf</value></link></item>
+<item><name>Українська полоністика</name><city><value>Житомир</value></city><link><value>http://nbuv.gov.ua/j-tit/Up</value></link></item>
+<item><name>Збірник наукових праць Військового інституту Київського національного університету імені Тараса Шевченка</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Znpviknu</value></link></item>
+<item><name>Біологія та екологія</name><city><value>Полтава</value></city><link><value>http://nbuv.gov.ua/j-tit/biolecol</value></link></item>
+<item><name>Studia linguistica</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Stling</value></link></item>
+<item><name>Агробіологія</name><city><value>Біла Церква</value></city><link><value>http://nbuv.gov.ua/j-tit/agr</value></link></item>
+<item><name>Високі технології в машинобудуванні</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/vtmb</value></link></item>
+<item><name>Інтегровані технології та енергозбереження</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/Itte</value></link></item>
+<item><name>Наука і техніка Повітряних Сил Збройних Сил України</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/Nitps</value></link></item>
+<item><name>Економіка сьогодення</name><city><value>Полтава</value></city><link><value>http://nbuv.gov.ua/j-tit/esapp</value></link></item>
+<item><name>Джерела</name><city><value>Івано-Франківськ</value></city><link><value>http://nbuv.gov.ua/j-tit/djer</value></link></item>
+<item><name>Геофизический журнал</name><city><value>Киев</value></city><link><value>http://nbuv.gov.ua/j-tit/gfj</value></link></item>
+<item><name>Ресторанний і готельний консалтинг. Інновації</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/rhci</value></link></item>
+<item><name>Освіта та розвиток обдарованої особистості</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Otros</value></link></item>
+<item><name>Системні технології</name><city><value>Дніпро</value></city><link><value>http://nbuv.gov.ua/j-tit/st</value></link></item>
+<item><name>Математичний вісник Наукового товариства ім. Шевченка</name><city><value>Івано-Франківськ</value></city><link><value>http://nbuv.gov.ua/j-tit/Mvntsh</value></link></item>
+<item><name>Літератури світу: поетика, ментальність і духовність</name><city><value>Кривий Ріг</value></city><link><value>http://nbuv.gov.ua/j-tit/Lspmd</value></link></item>
+<item><name>Педиатрия. Восточная Европа</name><city><value>Киев</value></city><link><value>http://nbuv.gov.ua/j-tit/pedeaseu</value></link></item>
+<item><name>Китаєзнавчі дослідження</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/kytdosl</value></link></item>
+<item><name>Філологічний дискурс</name><city><value>Хмельницький</value></city><link><value>http://nbuv.gov.ua/j-tit/fild</value></link></item>
+<item><name>Теоретичні і практичні аспекти економіки та інтелектуальної власності</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/Tpaeiv</value></link></item>
+<item><name>Українське журналістикознавство</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Uzhz</value></link></item>
+<item><name>Збірник наукових праць Військової академії (м. Одеса)</name><city><value> Технічні науки, Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/zbnpva</value></link></item>
+<item><name>Біологія тварин</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/bitv</value></link></item>
+<item><name>Studia methodologica</name><city><value>Ternopil</value></city><link><value>http://nbuv.gov.ua/j-tit/studmethod</value></link></item>
+<item><name>Агроекологічний журнал</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/agrog</value></link></item>
+<item><name>Витоки педагогічної майстерності</name><city><value>ерія : Педагогічні науки, Полтава</value></city><link><value>http://nbuv.gov.ua/j-tit/vpm</value></link></item>
+<item><name>Інтелект XXI</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/int_XXI</value></link></item>
+<item><name>Наука молода</name><city><value>Тернопіль</value></city><link><value>http://nbuv.gov.ua/j-tit/NM</value></link></item>
+<item><name>Економіка та держава</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ecde</value></link></item>
+<item><name>Дидактика математики</name><city><value>Донецьк</value></city><link><value>http://nbuv.gov.ua/j-tit/dmpd</value></link></item>
+<item><name>Геохімія та рудоутворення</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/geoch</value></link></item>
+<item><name>Ресурсоекономні матеріали, конструкції, будівлі та споруди</name><city><value>Рівне</value></city><link><value>http://nbuv.gov.ua/j-tit/rmkbs</value></link></item>
+<item><name>Освіта, менеджмент і бізнес: світовий вимір</name><city><value>ер. : Економічні науки, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Omib</value></link></item>
+<item><name>Системы контроля окружающей среды</name><city><value>Севастополь</value></city><link><value>http://nbuv.gov.ua/j-tit/skos</value></link></item>
+<item><name>Математичні машини і системи</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/MMS</value></link></item>
+<item><name>Літературний процес: методологія, імена, тенденції</name><city><value> Філологічні науки, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Litpro</value></link></item>
+<item><name>Педіатрія, акушерство та гінекологія</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/PAG</value></link></item>
+<item><name>Кібербезпека: освіта, наука, техніка</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/cest</value></link></item>
+<item><name>Філологічний часопис</name><city><value>Умань</value></city><link><value>http://nbuv.gov.ua/j-tit/filoljour</value></link></item>
+<item><name>Теоретичні і прикладні проблеми психології</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/Tippp</value></link></item>
+<item><name>Українське літературознавство</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/Ul</value></link></item>
+<item><name>Збірник наукових праць Вінницького національного аграрного університету</name><city><value>ерія : Технічні науки, Вінниця</value></city><link><value>http://nbuv.gov.ua/j-tit/znpvnutn</value></link></item>
+<item><name>Біомедична інженерія та електроніка</name><city><value>Херсон</value></city><link><value>http://nbuv.gov.ua/j-tit/biomedengelec</value></link></item>
+<item><name>Studia philologica</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/stfil</value></link></item>
+<item><name>Агроінком</name><city><value>Чабани</value></city><link><value>http://nbuv.gov.ua/j-tit/agroincom</value></link></item>
+<item><name>Вища освіта України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/vou</value></link></item>
+<item><name>Інтелект, особистість, цивілізація</name><city><value>Кривий Ріг</value></city><link><value>http://nbuv.gov.ua/j-tit/intelekt</value></link></item>
+<item><name>Наука та будівництво</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ntab</value></link></item>
+<item><name>Економіка та держава</name><city><value>ерія : Державне управління, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/eddu</value></link></item>
+<item><name>Динамические системы</name><city><value>Симф.</value></city><link><value>http://nbuv.gov.ua/j-tit/dinsy</value></link></item>
+<item><name>Геохімія техногенезу</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/znpigns</value></link></item>
+<item><name>Ресурсозберігаючі технології виробництва та обробки тиском матеріалів у машинобудуванні</name><city><value>Луганськ</value></city><link><value>http://nbuv.gov.ua/j-tit/rtvotmm</value></link></item>
+<item><name>Освіта, менеджмент і бізнес: світовий вимір</name><city><value>ер. : Філологічні науки, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Omibs</value></link></item>
+<item><name>Сіверщина в історії України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/sviu</value></link></item>
+<item><name>Математичні методи в хімії і біології</name><city><value>Івано-Франківськ</value></city><link><value>http://nbuv.gov.ua/j-tit/Jmm</value></link></item>
+<item><name>Літературознавство. Фольклористика. Культурологія</name><city><value>Черкаси</value></city><link><value>http://nbuv.gov.ua/j-tit/Lfk</value></link></item>
+<item><name>Передгірне та гірське землеробство і тваринництво</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/pgzt</value></link></item>
+<item><name>Кібернетика та комп'ютерні технології</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/kibcomteh</value></link></item>
+<item><name>Філологічні науки</name><city><value>Полтава</value></city><link><value>http://nbuv.gov.ua/j-tit/Fil_Nauk</value></link></item>
+<item><name>Теоретичні основи будівництва</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/Tob</value></link></item>
+<item><name>Українське мистецтвознавство: матеріали, дослідження, рецензії</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Ukrmyst</value></link></item>
+<item><name>Збірник наукових праць Державного науково-дослідного інституту авіації</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Znpdndia</value></link></item>
+<item><name>Біоресурси і природокористування</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/bpc</value></link></item>
+<item><name>Studia politologica Ucraino-Polona</name><city><value>Житомир</value></city><link><value>http://nbuv.gov.ua/j-tit/Spup</value></link></item>
+<item><name>Агропромислове виробництво Полісся</name><city><value>Житомир</value></city><link><value>http://nbuv.gov.ua/j-tit/avpol</value></link></item>
+<item><name>Вища школа</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/vusk</value></link></item>
+<item><name>Інтелігенція і влада</name><city><value>ерія : Історія, Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/iiv</value></link></item>
+<item><name>Наука та виробництво</name><city><value>Маріуполь</value></city><link><value>http://nbuv.gov.ua/j-tit/Zmmvp</value></link></item>
+<item><name>Економіка та митно-правові відносини</name><city><value>Хмельницький</value></city><link><value>http://nbuv.gov.ua/j-tit/eccuslerel</value></link></item>
+<item><name>Директор школи, ліцею, гімназії</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/dslg</value></link></item>
+<item><name>Гепатологія</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/gepat</value></link></item>
+<item><name>Рибне господарство України</name><city><value>Керчь</value></city><link><value>http://nbuv.gov.ua/j-tit/rgu</value></link></item>
+<item><name>Освіта, наука і культура на Поділлі</name><city><value>Кам'янець-Подільський</value></city><link><value>http://nbuv.gov.ua/j-tit/Onkp</value></link></item>
+<item><name>Сіверянський літопис</name><city><value>Чернігів</value></city><link><value>http://nbuv.gov.ua/j-tit/sl</value></link></item>
+<item><name>Математичні методи та фізико-механічні поля</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/MMPhMP</value></link></item>
+<item><name>Літературознавчі обрії. Праці молодих учених</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Litobr</value></link></item>
+<item><name>Переяславський літопис</name><city><value>Переяслав-Хмельницький</value></city><link><value>http://nbuv.gov.ua/j-tit/Perlit</value></link></item>
+<item><name>Клиническая онкология</name><city><value>Киев</value></city><link><value>http://nbuv.gov.ua/j-tit/klinonk</value></link></item>
+<item><name>Філологічні науки: синхронічний і діахронічний аспекти</name><city><value>Суми</value></city><link><value>http://nbuv.gov.ua/j-tit/FilolNauk</value></link></item>
+<item><name>Теоретичні питання культури, освіти та виховання</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/Tpkov</value></link></item>
+<item><name>Українське мовознавство</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Um</value></link></item>
+<item><name>Збірник наукових праць Державного науково-дослідного інституту випробувань і сертифікації озброєння та військової техніки</name><city><value>Чернігів</value></city><link><value>http://nbuv.gov.ua/j-tit/swsrdi</value></link></item>
+<item><name>Біофізичний вісник</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/bifv</value></link></item>
+<item><name>Studies in comparative education</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Ppstud</value></link></item>
+<item><name>Агросвіт</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/agrosvit</value></link></item>
+<item><name>Вібрації в техніці та технологіях</name><city><value>Вінниця</value></city><link><value>http://nbuv.gov.ua/j-tit/vvtt</value></link></item>
+<item><name>Інтермарум: історія, політика, культура</name><city><value>Житомир</value></city><link><value>http://nbuv.gov.ua/j-tit/inhpc</value></link></item>
+<item><name>Наука та інновації</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/scinn</value></link></item>
+<item><name>Економіка та підприємництво</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ecpi</value></link></item>
+<item><name>Диференціальні рівняння та їх застосування</name><city><value>Дніпропетровськ</value></city><link><value>http://nbuv.gov.ua/j-tit/driz</value></link></item>
+<item><name>Гігієна населених місць</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/gnm</value></link></item>
+<item><name>Рибогосподарська наука України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/rnu</value></link></item>
+<item><name>Освітній вимір</name><city><value>Кривий Ріг</value></city><link><value>http://nbuv.gov.ua/j-tit/PVSSh</value></link></item>
+<item><name>Сільське господарство та лісівництво</name><city><value>Вінниця</value></city><link><value>http://nbuv.gov.ua/j-tit/agf</value></link></item>
+<item><name>Математичні студії</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/Mat_st</value></link></item>
+<item><name>Літературознавчі студії</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Lits</value></link></item>
+<item><name>Переяславські Сковородинські студії</name><city><value>Переяслав-Хмельницький</value></city><link><value>http://nbuv.gov.ua/j-tit/prckc</value></link></item>
+<item><name>Клінічна анатомія та оперативна хірургія</name><city><value>Чернівці</value></city><link><value>http://nbuv.gov.ua/j-tit/kaoch</value></link></item>
+<item><name>Філологічні семінари</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Fils</value></link></item>
+<item><name>Теоретичні та прикладні аспекти геоінформатики</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/Ttpag</value></link></item>
+<item><name>Українське музикознавство</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Ukrmuz</value></link></item>
+<item><name>Збірник наукових праць Державного Нікітського ботаничного саду</name><city><value> Нові ароматичні та лІкарські рослини, Ялта</value></city><link><value>http://nbuv.gov.ua/j-tit/znpdnbs</value></link></item>
+<item><name>Бористен</name><city><value>Дніпропетровськ</value></city><link><value>http://nbuv.gov.ua/j-tit/boru</value></link></item>
+<item><name>Studies in history and philosophy of science and technology</name><city><value>Дніпро</value></city><link><value>http://nbuv.gov.ua/j-tit/studhphst</value></link></item>
+<item><name>Агрохімія і ґрунтознавство</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/agrohimigrn</value></link></item>
+<item><name>Вівчарство</name><city><value>Нова Каховка</value></city><link><value>http://nbuv.gov.ua/j-tit/vivc</value></link></item>
+<item><name>Інфекційні хвороби</name><city><value>Тернопіль</value></city><link><value>http://nbuv.gov.ua/j-tit/InfKhvor</value></link></item>
+<item><name>Наука та наукознавство</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/NNZ</value></link></item>
+<item><name>Економіка та право</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ecpr</value></link></item>
+<item><name>Діалог: медіа-студії</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/dialog</value></link></item>
+<item><name>Гідравліка і гідротехніка</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/gigt</value></link></item>
+<item><name>Ринкова економіка: сучасна теорія і практика управління</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/rectpu</value></link></item>
+<item><name>Освітній дискурс</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/eddcsp</value></link></item>
+<item><name>Сільський господар</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/sg</value></link></item>
+<item><name>Материалы по археологии, истории и этнографии Таврии</name><city><value>Симф.</value></city><link><value>http://nbuv.gov.ua/j-tit/Mzai</value></link></item>
+<item><name>Літопис Волині</name><city><value>Луцьк</value></city><link><value>http://nbuv.gov.ua/j-tit/lv</value></link></item>
+<item><name>Перспективи медицини та біології</name><city><value>Луганськ</value></city><link><value>http://nbuv.gov.ua/j-tit/pmtb</value></link></item>
+<item><name>Клінічна анестезіологія та інтенсивна терапія</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/kait</value></link></item>
+<item><name>Філологічні студії</name><city><value>Кривий Ріг</value></city><link><value>http://nbuv.gov.ua/j-tit/PhSt</value></link></item>
+<item><name>Теоретичні та прикладні питання державотворення</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/tppd</value></link></item>
+<item><name>Українське релігієзнавство</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Ukrr</value></link></item>
+<item><name>Збірник наукових праць Державного університету інфраструктури та технологій</name><city><value>ерія : Економіка і управління, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Znpdetut_eiu</value></link></item>
+<item><name>Боротьба з організованою злочинністю і корупцією (теорія і практика)</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/boz</value></link></item>
+<item><name>Scientific works of Vinnytsia national technical university</name><city><value>Vinnytsia</value></city><link><value>http://nbuv.gov.ua/j-tit/vntue</value></link></item>
+<item><name>Адаптивне управління: теорія і практика</name><city><value> Економіка, Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/admthp</value></link></item>
+<item><name>Вівчарство та козівництво</name><city><value>Нова Каховка</value></city><link><value>http://nbuv.gov.ua/j-tit/vivkoz</value></link></item>
+<item><name>Інформатика та математичні методи в моделюванні</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/Itmm</value></link></item>
+<item><name>Наука та прогрес транспорту. Вісник Дніпропетровського національного університету залізничного транспорту імені академіка В. Лазаряна</name><city><value>Дніпро</value></city><link><value>http://nbuv.gov.ua/j-tit/vdnuzt</value></link></item>
+<item><name>Економіка та право</name><city><value>ерія : Економіка, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ecprec</value></link></item>
+<item><name>Докса</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/dokca</value></link></item>
+<item><name>Гідроакустичний журнал</name><city><value>Запоріжжя</value></city><link><value>http://nbuv.gov.ua/j-tit/gaj</value></link></item>
+<item><name>Ринок праці та зайнятість населення</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/rpzn</value></link></item>
+<item><name>Освітній простір України</name><city><value>Івано-Франківськ</value></city><link><value>http://nbuv.gov.ua/j-tit/ocpru</value></link></item>
+<item><name>Сільськогосподарська мікробіологія</name><city><value>Чернігів</value></city><link><value>http://nbuv.gov.ua/j-tit/smik</value></link></item>
+<item><name>Матеріали до української етнології</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/mdue</value></link></item>
+<item><name>Літопис травматології та ортопедії</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Lto</value></link></item>
+<item><name>"Перспективи". Соціально-політичний журнал</name><city><value>Одеса</value></city><link><value>http://nbuv.gov.ua/j-tit/Perspekt</value></link></item>
+<item><name>Клінічна генетика і перинатальна діагностика</name><city><value>Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/cgpd</value></link></item>
+<item><name>Філологічні трактати</name><city><value>Суми, Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/Filtr</value></link></item>
+<item><name>Теоретичні та прикладні питання економіки</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/Tppe</value></link></item>
+<item><name>Українське суспільство: моніторинг соціальних змін</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ukrsoc</value></link></item>
+<item><name>Збірник наукових праць Державного університету інфраструктури та технологій</name><city><value>ерія : Транспортні системи і технології, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Znpdetut_tsit</value></link></item>
+<item><name>Боспорские исследования</name><city><value>Симф., Керчь</value></city><link><value>http://nbuv.gov.ua/j-tit/bois</value></link></item>
+<item><name>Semiconductor physics, quantum electronics &amp; optoelectronics</name><city><value>Kyiv</value></city><link><value>http://nbuv.gov.ua/j-tit/MSMW</value></link></item>
+<item><name>Адаптивне управління: теорія і практика</name><city><value> Педагогіка, Харків</value></city><link><value>http://nbuv.gov.ua/j-tit/adupped</value></link></item>
+<item><name>Від бароко до постмодернізму</name><city><value>Дніпро</value></city><link><value>http://nbuv.gov.ua/j-tit/vbdp</value></link></item>
+<item><name>Інформаційна безпека</name><city><value>Луганськ</value></city><link><value>http://nbuv.gov.ua/j-tit/Ibez</value></link></item>
+<item><name>Наука, технології, інновації</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/STI</value></link></item>
+<item><name>Економіка та право</name><city><value>ерія : Право, Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/ecprpr</value></link></item>
+<item><name>Донецький археологічний збірник</name><city><value>Донецьк</value></city><link><value>http://nbuv.gov.ua/j-tit/daz</value></link></item>
+<item><name>Гідробіологічний журнал</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/gbj</value></link></item>
+<item><name>Ринок цінних паперів України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/rcpu</value></link></item>
+<item><name>Освітня аналітика України</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/educanalukr</value></link></item>
+<item><name>Сільськогосподарські машини</name><city><value>Луцьк</value></city><link><value>http://nbuv.gov.ua/j-tit/silmah</value></link></item>
+<item><name>Матеріали і дослідження з археології Прикарпаття і Волині</name><city><value>Львів</value></city><link><value>http://nbuv.gov.ua/j-tit/Mdapv</value></link></item>
+<item><name>Логістика: теорія та практика</name><city><value>Луцьк</value></city><link><value>http://nbuv.gov.ua/j-tit/Logtp</value></link></item>
+<item><name>Перспективні напрямки проектування житлових та громадських будівель</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/Pnpzhtgb</value></link></item>
+<item><name>Клінічна ендокринологія та ендокринна хірургія</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/kee</value></link></item>
+<item><name>Філософія і соціологія в контексті сучасної культури</name><city><value>Дніпропетровськ</value></city><link><value>http://nbuv.gov.ua/j-tit/Fis</value></link></item>
+<item><name>Теорії мікро-макроекономіки</name><city><value></value></city><link><value>http://nbuv.gov.ua/j-tit/Tmm</value></link></item>
+<item><name>Український антарктичний журнал</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/uazh</value></link></item>
+<item><name>Збірник наукових праць Дніпровського державного технічного університету</name><city><value> Технічні науки, Кам'янське</value></city><link><value>http://nbuv.gov.ua/j-tit/Znpddtu</value></link></item>
+<item><name>Бранта</name><city><value>Мелитополь</value></city><link><value>http://nbuv.gov.ua/j-tit/bran</value></link></item>
+<item><name>Адаптивні системи автоматичного управління</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/asau</value></link></item>
+<item><name>Відбір і обробка інформації</name><city><value>Київ</value></city><link><value>http://nbuv.gov.ua/j-tit/vioi</value></link>

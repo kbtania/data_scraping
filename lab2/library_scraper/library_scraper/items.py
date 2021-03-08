@@ -10,4 +10,9 @@ class LibraryScraperItem(scrapy.Item):
     name = scrapy.Field()
     city = scrapy.Field()
     link = scrapy.Field()
+
+class HotlineScraperItem(scrapy.Item):
+    name = scrapy.Field()
+    price = scrapy.Field()
+    link = scrapy.Field()
     

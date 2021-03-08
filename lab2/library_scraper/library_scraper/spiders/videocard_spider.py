@@ -1,5 +1,5 @@
 import scrapy
-from hotline_scraper.items import HotlineScraperItem
+from library_scraper.items import HotlineScraperItem
 
 class VideocardsSpider(scrapy.Spider):
     name = "videocards"
@@ -19,4 +19,3 @@ class VideocardsSpider(scrapy.Spider):
         next_page = response.css('a.next ::attr(href)').get()
         if next_page is not None:
             yield response.follow(self.start_urls[0]+next_page, callback=self.parse)
-    

@@ -16,7 +16,7 @@ class MonitorSpider(scrapy.Spider):
             monitor["connection_type"] = response.xpath('/html/body//*[@id="list_form1"]/child::*/div[contains(@class, "model-short-div")]/table/tr/td[2]/div[1]/div[2]/div[4]/@title').getall()[i].split(":")[1]
             yield monitor
 
-        for i in range(2, 50): # go throught 50 pages
+        for i in range(2, 50): # go through 50 pages
             yield response.follow(f'https://ek.ua/ua/list/157/{i}/', callback=self.parse)
 
      
